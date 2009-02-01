@@ -261,7 +261,7 @@ int main(int argc, char **argv)
 		}
 	}
 
-	if(!pwd || !find(pwd, "oc-data", NULL))
+	if((!pwd || !find(pwd, "oc-data", NULL)) && !force)
 	{
 		fprintf(stderr, "oc-data was not found in pwd.  Use -f to continue anyway\n");
 		return 1;
