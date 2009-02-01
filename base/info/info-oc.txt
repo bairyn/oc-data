@@ -1,0 +1,237 @@
+no doc format
+
+
+^3list of ^244^3 oc's
+
+
+^2Latest releases
+
+^5sirius            - oc                 - 9 /10 - superpie (beta)
+^5cargoport-102     - oc                 - 10/10 - bob (beta)
+^5nexus6            - oca^^5m              - 8 /10 - bob, Harry Pothead (beta)
+^5mission_one_b6    - oc                 - 7 /10 - bob
+^5circletrain       - ocaDw              - 8 /10 - bob
+
+^6===================================
+OC suffixes
+
+__
+armsonly: no medical stations in oc
+contrib: contributed course
+medisonly: no armouries in oc
+needsreview: new oc without review and fixing
+beta: new oc. highscore stats may and most likely will be removed!
+__
+queue: oc needs review (no longer a queue mechanism)
+dev: oc in development
+test: oc for testing purposes
+
+^6===================================
+^6In development
+
+^6nexus6 oca^^5m
+^6pulse-beta3 oc
+
+^6===================================
+Official developers
+
+bob
+Zort
+Harry Pothead
+
+Contributors
+
+Draikonz
+LoneWolf
+Pheonix
+RipeFlesh
+superpie
+Vodka
+>FTiGeRbLaDe
+FangBlade
+
+
+^6===================================
+
+
+^2Available oc's in order of rating, difficulty - ^1Polls recently started, results inaccurate
+
+^2mapname           - layoutname         - rating - lead developer(s) - assistants
+
+^3---
+^3Horrible ( 1 /10 - 3 /10 )
+
+^5grangerrink_b2    - oc                 - 3 /10 - bob
+
+
+^3---
+^3Poor ( 4 /10 - 5 /10 )
+
+
+^3---
+^3Good ( 6 /10 - 7 /10 )
+
+^5transit           - oc                 - 6 /10 - bob, Zort
+^5pushcannon_b3     - oc_beta            - 7 /10 - bob, superpie
+^5mission_one_b6    - oc                 - 7 /10 - bob  - New!
+^5nexus6            - oc                 - 7 /10 - bob - Zort
+^5straftrain1       - ocaDwuern          - 7 /10 - bob
+^5citadel           - oc                 - 7 /10 - bob
+
+
+^3---
+^3Great ( 8 /10 )
+
+^5atcs              - oc                 - 8 /10 - bob
+^5nameless_alpha    - ocamuer            - 8 /10 - bob
+^5gloom3t           - oc                 - 8 /10 - Harry Pothead
+^5ig_chaos          - oc                 - 8 /10 - superpie
+^5arachnid2         - ocamuer            - 8 /10 - Zort
+^5nexus6            - ocat               - 8 /10 - bob
+^5circletrain       - ocaDw              - 8 /10 - bob  - New!
+^5nexus6            - oca^^5m_beta         - 8 /10 - bob, Harry Pothead  - New!
+^5openfield_beta2   - oc                 - 8 /10 - bob
+^5arachnid2         - oc                 - 8 /10 - bob
+^5nameless_alpha    - oc                 - 8 /10 - bob
+^5tremor            - oc                 - 8 /10 - bob
+^51984b4            - oc                 - 8 /10 - bob - Zort
+^5atcszalpha-b2     - oc                 - 8 /10 - bob - Zort
+^5veddak-final      - oc_beta            - 8 /10 - superpie
+^5pushcannon_b3     - ocam               - 8 /10 - Harry Pothead
+^5peorongatep3      - oc                 - 8 /10 - bob - Zort  ^1 - Mapping inconsistencies may cause random structure destruction
+^5uncreation        - oc                 - 8 /10 - bob
+
+
+^3---
+^3Amazing ( 9 /10 )
+
+^5theBunker         - oc_beta            - 9 /10 - superpie - Harry Pothead, RipeFlesh
+^5niveus            - oc                 - 9 /10 - bob - Zort, LoneWolf
+^5atcs              - ocbeD              - 9 /10 - bob
+^5ethereal          - oc                 - 9 /10 - superpie
+^5arachnid2         - oc2                - 9 /10 - bob
+^5eden-b3           - oc                 - 9 /10 - Zort
+^5gamma_core-beta6  - oc                 - 9 /10 - Harry Pothead - bob
+^5uranium124        - oc                 - 9 /10 - Zort - bob
+^5sirius            - oc                 - 9 /10 - superpie  - New!
+^5thermal           - oc_medisonly       - 9 /10 - Harry Pothead
+^5UTCSb2            - oc                 - 9 /10 - bob
+^5karith            - oc                 - 9 /10 - bob - Zort
+^5gloom2beta2       - oc                 - 9 /10 - Harry Pothead, superpie, RipeFlesh
+^5thanatos_b3       - oc                 - 9 /10 - superpie, Harry Pothead, RipeFlesh
+^5outpost_p4_beta3  - oc                 - 9 /10 - Harry Pothead - superpie, bob
+^5station15-beta3   - oc                 - 9 /10 - bob
+^5atcs              - oca^^5muer           - 9 /10 - Draikonz
+^5meep_b2           - oc                 - 9 /10 - Zort - bob
+
+
+^3---
+^3Perfect ( 10/10 )
+^5powergrid_b25     - oc                 - 10/10 - bob
+^5niveus            - ocb^^5m              - 10/10 - bob
+^5cargoport-102     - oc_beta            - 10/10 - bob  - New!
+^5metro-b1-2        - oc                 - 10/10 - Zort
+
+
+
+^6===================================
+
+
+^2Available oc's in order of difficulty
+
+
+^2mapname           - layoutname         - rating
+
+^3---
+^3Beginner
+
+^5grangerrink_b2    - oc                 - 3 /10 - bob
+^5nameless_alpha    - ocamuer            - 8 /10 - bob
+^5atcs              - oc                 - 8 /10 - bob
+^5theBunker         - oc_beta            - 9 /10 - superpie - Harry Pothead, RipeFlesh
+
+
+^3---
+^3Intermediate
+
+^5niveus            - oc                 - 9 /10 - bob - Zort, LoneWolf
+^5gloom3t           - oc                 - 8 /10 - Harry Pothead
+^5openfield_beta2   - oc                 - 8 /10 - bob
+^5arachnid2         - ocamuer            - 8 /10 - Zort
+^5pushcannon_b3     - oc_beta            - 7 /10 - bob, superpie
+^5atcs              - ocbeD              - 9 /10 - bob
+^51984b4            - oc                 - 8 /10 - bob - Zort
+^5arachnid2         - oc2                - 9 /10 - bob
+^5eden-b3           - oc                 - 9 /10 - Zort
+^5tremor            - oc                 - 8 /10 - bob
+^5ig_chaos          - oc                 - 8 /10 - superpie
+^5arachnid2         - oc                 - 8 /10 - bob
+^5powergrid_b25     - oc                 - 10/10 - bob
+^5atcszalpha-b2     - oc                 - 8 /10 - bob - Zort
+^5nameless_alpha    - oc                 - 8 /10 - bob
+^5ethereal          - oc                 - 9 /10 - superpie
+^5niveus            - ocb^^5m              - 10/10 - bob
+^5cargoport-102     - oc_beta            - 10/10 - bob  - New!
+^5gamma_core-beta6  - oc                 - 9 /10 - Harry Pothead - bob
+
+
+^3---
+^3Advanced
+
+^5uranium124        - oc                 - 9 /10 - Zort - bob
+^5nexus6            - oc                 - 7 /10 - bob - Zort
+^5UTCSb2            - oc                 - 9 /10 - bob
+^5nexus6            - ocat               - 8 /10 - bob
+^5circletrain       - ocaDw              - 8 /10 - bob  - New!
+^5straftrain1       - ocaDwuern          - 7 /10 - bob
+^5mission_one_b6    - oc                 - 7 /10 - bob  - New!
+^5karith            - oc                 - 9 /10 - bob - Zort
+^5station15-beta3   - oc                 - 9 /10 - bob
+^5gloom2beta2       - oc                 - 9 /10 - Harry Pothead, superpie, RipeFlesh
+^5thanatos_b3       - oc                 - 9 /10 - superpie, Harry Pothead, RipeFlesh
+^5transit           - oc                 - 6 /10 - bob, Zort
+^5thermal           - oc_medisonly       - 9 /10 - Harry Pothead
+^5pushcannon_b3     - ocam               - 8 /10 - Harry Pothead
+^5outpost_p4_beta3  - oc                 - 9 /10 - Harry Pothead - superpie, bob
+^5veddak-final      - oc_beta            - 8 /10 - superpie
+
+
+^3---
+^3Expert
+
+^5atcs              - oca^^5muer           - 9 /10 - Draikonz
+^5nexus6            - oca^^5m_beta         - 8 /10 - bob, Harry Pothead  - New!
+^5peorongatep3      - oc                 - 9 /10 - bob - Zort  ^1 - Mapping inconsistencies may cause random structure destruction
+^5sirius            - oc                 - 9 /10 - superpie  - New!
+
+
+^3---
+^3Insane
+
+^5citadel           - oc                 - 7 /10 - bob
+^5uncreation        - oc                 - 8 /10 - bob
+^5meep_b2           - oc                 - 9 /10 - Zort - bob
+^5metro-b1-2        - oc                 - 10/10 - Zort
+
+
+^6===================================
+
+
+^3---
+^2Contributions
+
+^5sectorb17         - oc_contrib         - Harry Pothead
+^5Cerberus_b1       - oc_contrib         - LoneWolf, phoenix - Zort
+^5atcs-x            - oc_contrib         - >FTiGeRbLaDe - Harry Pothead
+^5wrecktify_b1      - oc_contrib         - 8 /10 - Vodka
+^5spacetracks_beta1 - oc_contrib         - 7 /10 - Vodka
+
+
+^3---
+
+
+
+
+
+
+Press ` or ~ to see full info page

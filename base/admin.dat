@@ -1,0 +1,25 @@
+[level]
+level   = -768
+name    = ^7loser
+flags   = h^hLlr
+
+[level]
+level   = 0
+name    = ^7Player
+flags   = h^hLlr
+
+[level]
+level   = 1
+name    = ^7Player
+flags   = h^hLlr
+
+[level]
+level   = 2
+name    = ^2Protected Player
+flags   = h^hLlr1
+
+[level]
+level   = 3
+name    = ^4Operator
+flags   = !?$123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOQRSTUVWXYZ^b^c^h^l^p^r^s^L^P^^l^^L^^^a
+

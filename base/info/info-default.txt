@@ -1,0 +1,221 @@
+doc format:
+^1Red^7: important information
+^2Green^7: header
+^3Yellow^7: console command (press ` or ~ and then type the
+             -command in quotes. eg, '^3\class level0^7', press ` or ~ and then type '/class level0' without quotes)
+^4Blue^7: site
+^5Cyan^7: admin command (say it, or type it in console preceded with a '/' - single / without quotes)
+^6Magenta^7: separator
+^7White^7: sub-information
+
+^6==================
+
+^2^1O^2bstacle ^1C^2ourse Information^7--
+
+Your objective is to get to the armoury.  Buy ammo to win.
+
+Medis are bonus.  You can't use the jetpack, luci, flamer or
+grenade to use them.  You will lose your medi status on death.
+
+Boosters are checkpoints.  Shoot them to activate.  Your medi
+stats will be saved.
+
+Some telenodes will teleport to another.  You will not spawn in
+these.  Press your use/evolve key (default 'q') facing it's
+hitbox (where you collide into it, usually it's base).  To bind,
+'^3\bind x +button7^7'. replace x with your key
+
+Some oc's allow you to evolve into different alien classes.
+To evolve into..
+Granger:           '^3\class builder^7'
+Advanced Granger:  '^3\class builderupg^7'
+Dretch:            '^3\class level0^7'
+Basilisk:          '^3\class level1^7'
+Advanced Basilisk: '^3\class level1upg^7'
+Advanced Marauder: '^3\class level2^7'
+Marauder:          '^3\class level2upg^7'
+Dragoon:           '^3\class level3^7'
+Advanced Dragoon:  '^3\class level3upg^7'
+Tyrant:            '^3\class level4^7'
+
+To restart the obstacle course (the only way to win again),
+'^3\restartoc^7'
+
+Look out for arrows.  They will point in the direction to the
+armoury
+
+^6==================
+
+
+^6==================
+
+^2Scrimming in oc's^7--
+
+^2General + admins^7--
+
+Two teams can scrim.  An admin will '^5!putscrimteam client team^7'
+and '^5!startocscrim m/a^7 (all Medis / Arm)'
+
+To leave a scrim, console '^3\leaveocscrim^7'.
+
+Note to admins: any new scrim players after '^5!startocscrim^7'
+                 - will be out of synch with medi, arm and
+                 - checkpoint stats.  An armory win will synch
+                 - every new player on the same scrim team's
+                 - arm stats, using a medi, and shooting a
+                 - checkpoint.  An out of synch player
+                 - using a medi arm or booster will erase
+                 - every previous medi arm or booster, because
+                 - they'll start out with no medis arms or
+                 - checkpoints.
+
+To clear an oc, run '^5!clearocscrim^7'
+
+QUOTE:
+circle, or anybody else, if you ever wanted to start an oc scrim:
+ ]!putscrimteam player teamname
+teamname can be anything. if it doesn't exist, it gets created (only up to two teams are valid). first team to be created gets las gun. second gets md.
+
+after all the players are put on the two opposing teams..
+ ]!startocscrim m
+ OR
+ ]!startocscrim a
+the latter is first to armory mode.  the other is first team to use all medis mode
+when you're all done
+ ]!clearocscrim
+or if you're too lazy, everybody can   /leavocscrim, but then the guns will still be reserved.
+
+Good luck :)
+...END
+
+^2Rules^7--
+
+The team to tag the armoury or grab every medi first wins.
+The scrim team acts as a whole.  Each team keeps its own medi
+status, arm stats and checkpoint.
+
+^6==================
+
+^6==================
+
+
+^2spoil prevention^7--
+/hide to hide yourself from other clients and from spectating
+/unhide to return to normal state
+/unhide to unhide yourself
+/callvote hide/unhide is also available
+!hide (optionally duration) and !unhide
+/testHidden player tells you if a player is hidden
+
+
+
+^6==================
+
+
+^6==================
+
+^3High scores^7--
+
+Run '^3\stats^7' to see the current oc's stats.  Run '/stats mapname'
+to see mapname oc's stats.  Run '^3\stats mapname layoutname^7' to see mapname
+layoutname's stats.  For exmaple, '^3\stats arachnid2 oc2^7'.
+
+Run '^3\mystats^7' to see your own stats.
+
+Run '^3\ocTime^7' to print a repeating time message.  Run '^3\normalTime^7' to
+restore and disable the time message
+
+^6==================
+
+^6==================
+
+^3Other useful commands^7--
+
+'^3/DisableAutoAngle^7' - On teleportation and other spawning and restarting,
+this will keep your viewing angle from resetting to the buildable you end up on.
+Note that the angle needs to be reset after death.  Run'^3/EnableAutoAngle^7'
+to always reset.  The default auto angle is disabled
+
+
+'^3/quickrestartoc^7' - restart quickly
+'^3/teleboost^7' - Teleport to your last checkpoint
+
+
+
+^6==================
+
+
+^6==================
+
+^3ATCS walkthrough for beginners^7--
+
+
+Beginners read this!
+
+To begin, /callvote map atcs
+
+Jump from the ret to the defence computer at the end of the first slope.
+Next, jump around the 3 teslas.  Use the wall to keep you from traveling farther
+away from the teslas.  Once you land, shoot the booster.  That's the first
+checkpoint.
+Jump from the turret to the teslas.  After that, sprint without jumping from the
+defence computer closest to the high tesla and lower teslas.  The ceiling is too
+low to jump.  If you fall, you need to use a slope jump to get back up.  Jump
+jump while running up the slope (or in more beginner terms, get a head start).
+jump from tesla to tesla.  After that, jump on the two dc's (defence computers)
+by jumping from either right next the dc's where you have no actual speed and
+thus will not lose height, or jump from the top ledge where there is no slope.
+Jump and SPRINT from the ret (machinegun turret) to jump over the teslas.
+There are more difficult ways to do this, but since this is a beginners guide
+I won't spoil any extra techniques and will only explain the easiest method.
+This may also be true for everything else in this course.
+Shoot the booster after the teslas, and crouch between the wall and the
+rc (reactor) on the right.  It probably will take a little big of wiggling of
+the mouse and strafing left and right (A and D keys) to get in for the
+inexperienced.  Jump over the next ret, once again, jumping off a slope
+(this technique is commonly refered to as a ramp jump).  Jump down to the next
+row of dc's. You're objective here is to get through the teslas onto the other
+side.  This is called crouch jumping.  Crouch jumping is jumping in air. Press
+space, press c in air.  The key is to let go of space BEFORE you press c,
+otherwise you will not crouch.  That is the most common mistake beginners have.
+Another few things to remember to always have a little head start, a little
+distance / back up from the teslas.  Also remember this needs to be done quick,
+all in a matter of milliseconds, and before you land.  Spectators on the outside
+will see you crouching in air as well as other players seeing you.  I'll
+reiterate, let go of space before you press c, or you will not crouch jump!
+After that, jump from the repeater onto the dc, from that dc onto the last,
+and jump onto the teslas (may need another crouch jump depending on which tesla
+you land on).  shoot the checkpoint.  In atcs middle, on the left side relative
+to the direction you came from, you will find bonus medical stations, but a dead
+end.  If you decide to get the bonus medis, come back because you need to go
+through the right-hand path.  Use the slope next to the left dc to jump on/over.
+If you can't seem to do it, sprint with a good head start, and jump right before
+you hit the slope, and the slope will carry you.  If you happen to land in the
+middle, don't worry, you are NOT stuck!  You need to jump and wiggle your way
+out.  The next step needs the same technique, but is quite harder.  Use the
+slope to the right of the defence computer.  Walk up the stairs and jump on the
+ret from the top of the stairs.  From the ret, jump onto the top of the building
+closest to the alien / red entrance/exit.  Jump from there to the other side of
+the top of the building past the gap.  If you fall, keep trying and practice;
+jump and the ret again and start over.  Finally, drop down to the human exit.
+Shoot the booster.  Walk up to the arm and buy ammunition (or use the
+armoury another way).  Good luck :)
+
+
+^6==================
+
+
+Say ^5'!info oc' for a list of available obstacle courses.
+To play a different oc, run '/callvote', or run '/callvote draw' to play another oc
+
+Bob's QVM
+^4http://forum.clanzerorisk.com/
+
+Have fun! :)
+
+
+
+
+
+
+Press ` or ~ to see full info page
