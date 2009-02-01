@@ -1,3 +1,4 @@
-layouts/*
-info/*
-maprotation.cfg
+#!/bin/sh
+echo layouts
+echo info
+echo maprotation.cfg
