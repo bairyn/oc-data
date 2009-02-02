@@ -229,10 +229,4 @@ FangBlade
 
 ^3---
 
-
-
-
-
-
 Press ` or ~ to see full info page
-INFO DOCS ARE UNDER DEVELOPMENT
