@@ -235,3 +235,4 @@ FangBlade
 
 
 Press ` or ~ to see full info page
+INFO DOCS ARE UNDER DEVELOPMENT
