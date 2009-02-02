@@ -24,5 +24,4 @@ bite or chomp the booster to active it.
 For more topics about playing OC's see ^2!info playing-more^7
 
 Press tilde, '~', to see the entire document
-
 --
