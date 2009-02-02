@@ -6,4 +6,6 @@ See ^2!info stats^7 to see information about hiscores and stats
 See ^2!info scrim^7 to see information about scrims and races
 See ^2!info faq^7 to see a list of requently asked questions
 
-Press tilde to see the entire document
+Press tilde, '~', to see the entire document
+
+--
