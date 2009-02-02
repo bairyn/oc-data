@@ -1,0 +1,9 @@
+#!/usr/bin/expect -f
+
+set PASSWORDSSH "password"
+
+set timeout 5
+
+spawn rsync -av -e "ssh -l user" user@example.com:/path/to/base/${1} /path/to/tmp/oc-data/${1}
+
+expect "password:" { send "$PASSWORDSSH\n"}
