@@ -4,6 +4,6 @@ set PASSWORDSSH "password"
 
 set timeout 5
 
-spawn rsync -av -e "ssh -l user" /path/to/tmp/oc-data/[lindex $argv 0] user@example.com:~/path/to/base/[lindex $argv 0]
+spawn rsync -av -e "ssh -l user" /path/to/tmp/oc-data/[lindex $argv 0] user@example.com:~/path/to/base/
 
 expect "password:" { send "$PASSWORDSSH\n"}

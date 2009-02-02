@@ -3,7 +3,5 @@
 export DATAPATH=${1}
 
 echo layouts
-for FILE in `ls ${DATAPATH}/info-*.txt`; do
-	echo info/${FILE}
-done
+echo info
 echo maprotation.cfg
