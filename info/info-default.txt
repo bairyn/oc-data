@@ -1,2 +1,3 @@
 Your objective is to get the armoury.  Use it to win.
 --!INFO DOCS ARE UNDER DEVELOPMENT--
+--!INFO DOCS ARE UNDER DEVELOPMENT--
