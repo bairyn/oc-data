@@ -20,7 +20,7 @@
 #done
 
 git archive --format=tar master | tar -x -C /path/to/tmp/oc-data
-for FILE in `/path/to/tmp/oc-data/files`; do
+for FILE in `/path/to/tmp/oc-data/files /path/to/tmp/oc-data/files`; do
 	echo -ne "Updating $FILE\n"
 
 	/path/to/oc-data.git/hooks/rsyncfile ${FILE}
