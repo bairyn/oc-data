@@ -1,4 +1,4 @@
 #!/bin/sh
 echo layouts
-echo info
+echo info/info-*.txt
 echo maprotation.cfg
