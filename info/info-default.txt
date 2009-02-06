@@ -5,6 +5,9 @@ See ^2!info list^7 to see information about the current obstacle courses availab
 See ^2!info stats^7 to see information about hiscores and stats
 See ^2!info scrim^7 to see information about scrims and races
 See ^2!info faq^7 to see a list of requently asked questions
+See ^2!info admin^7 to see information for server admins
+
+This server is running qvm version ${g_version} (build ID: ${g_build})
 
 Press tilde, '~', to see the entire document
 --

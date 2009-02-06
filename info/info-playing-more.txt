@@ -1,0 +1,9 @@
+See ^2!info playing^7 for basic obstacle course rules
+See ^2!info playing-atcs^7 to see a guide for beating the ATCS OC
+See ^2!info playing-advanced^7 to see more advanced playing, and how the game
+  - works
+See ^2!info playing-moves^7 to see some common and basic methods of getting
+  - through OC's
+
+Press tilde, '~', to see the entire document
+--
