@@ -1,0 +1,59 @@
+--HOW TO DEVELOP AND SUBMIT A COURSE
+
+An OC is simply built and saved.  Building is OC mode is recommended.
+To build an OC in editoc mode:
+1: load the map
+2: Use '!layoutsave layoutname' (layoutname must be an oc layout, see
+    - ^2!info layout^7)
+3: Use '!restart layoutname'
+4: Use '!editoc 1' (or '!editoc 2' to let everybody make changes)
+
+After editoc is enabled, build the obstacle course.
+
+In editoc mode, you can manually power or unpower a buildables.  It is almost always
+ideal to leave a buildable unpowered.
+
+In editoc mode, you can also 
+
+--SUBMITTING AN OBSTACLE COURSE
+
+There are several things which need to be considered before uploading
+
+ -Does the course use any obsolete flags?  We don't normally accept any
+    - new layouts with obsolete flags
+ -Is there another OC of the same general type?  If there is, make sure that
+    - it is worth uploading when another OC in the same map can be played as
+    - well.  In other words, try to make it either significantly better or
+    - significantly different.  Many hours have been wasted from course
+    - developers ignored this.  Don't ignore this guideline.
+ -Does the layout cover the entire map it is being developed?  Every vent
+    - or nook and cranny does not need to filled, but there should be no empty
+    - spots.  This is one of the less strict rules.  Try to fill in as much
+    - as possible.
+ -Is it good?  Try to be unique and original.  Don't be repetitive.
+
+Next, determine the OC's difficulty:
+
+Easy: a newcomer can beat it with some if not little skill.
+Intermediate: a regular player with moderate skill can beat it.
+Advanced: takes a little more skill or determination than usual skill to win.
+Expert: takes a considerable amount of skill.  Many will be frusturated and give
+    - up.
+Insane: a course for the master of the master.  Takes an extremely high level of
+    - skill to win.
+
+After everything is polished, either upload it to the forum board of
+http://forum.clanzerorisk.com/ or http://bobis.boldlygoingnowhere.org/ or
+contact one of the following people who have commit access to the server:
+
+bob can be contacted at KrabbyKrap@gmail.com or on #tremulous-oc on freenode
+superpie can be contacted at nick572@gmail.com or on irc.freenode.org
+
+^1
+^2
+^3
+^4
+^5
+^6
+^7Press tilde, '~', to see the entire document
+--

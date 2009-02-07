@@ -62,6 +62,11 @@ methods are: slightly turning the camera, immediately changing direction of
 movement by 45o, and pouncing as a Dragoon.  Once you accelerate, however, if
 you are on a surface, your velocity will immediately return to around 320.
 
-
-Press tilde, '~', to see the entire document
+^1
+^2
+^3
+^4
+^5
+^6
+^7Press tilde, '~', to see the entire document
 --

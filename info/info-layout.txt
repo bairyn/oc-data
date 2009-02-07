@@ -1,0 +1,65 @@
+--LAYOUT NAMES
+
+An OC's layout, or level, global settings are determined by its file name.
+The most common file name is 'oc.dat'.  '.dat' is required at the end of every
+layout.  The layout name is everything before '.dat', and this case it it is
+'oc'.  If the layout name begins with 'oc' it is an Obstacle Course layout,
+and Obstacle Course mode is used when it is loaded.
+
+Every character after 'oc' determines the settings in a layout.
+
+n: Use the old behaviour of armouries; only one armoury has to be used to win
+p: Players will never be slowed down by creep
+a: only the alien team can play
+b: both teams can play
+w: aliens cannot wallwalk
+*u: all turrets are unpowered
+*e: all teslas are unpowered
+*r: all reactors will not zap aliens
+g: grangers can play
+^^7g: advanced grangers can play
+d: dretches can play
+l: basilisks can play
+^^7l: advanced basilisks can play
+m: marauders can play
+^^7m: advanced marauders can play
+h: dragoons can play
+^^7h: advanced dragoons can play
+t: tyrants can play
+
+-
+*: obsolete flag
+
+All numbers (0-9) are reserved and will never be used as a flag.
+
+If two OC's have the same name, add numbers starting with 2.  For example, if
+a layout 'oc' already exists for a map when a second one is built, name it
+'oc2'.  The next layout will be named 'oc3' and etc.
+
+If the layout has a '_', the underscore itself and everything after it is
+ignored.  Typically, an underscore is used only with one of the following
+standard suffixes:
+
+review: The changes are pending review
+beta: New medis or arms are looking to be placed.  Generally a new OC.
+    - Stats will most likely be erased if they were stored during the beta
+    - stage.
+armsonly: There are no medical stations in the course
+medisonly: No Armouries in the course
+indevelopment: The OC isn't finished.  (No OC's with this suffix should be
+    - uploaded to the official OC server except under special circumstances)
+contrib: Not necessarily a contribution (there are plenty without this suffix),
+    - but a poor quality OC's.  These will usually not be accepted anymore.
+
+Note that 'queue' was used instead of 'review' and 'needsreview' was used
+instead of 'indevelopment' and 'testing' also existed in all versions before
+1.3.
+
+^1
+^2
+^3
+^4
+^5
+^6
+^7Press tilde, '~', to see the entire document
+--

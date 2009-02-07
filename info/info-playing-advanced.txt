@@ -1,9 +1,50 @@
---SPECIFICS AND INNER WORKINGS--
+Misc commands:
+ '/teleboost' - teleports to the checkpoint and simulates a death (you will
+    - lose all medis and arms up to the last saved checkpoint).
+ '/restartOC' - old restart method.  Kills you and restarts the obstacle course
+ '/quickRestartOC' - restarts OC without death and autoangle is not
+    - forced (see '/enableAutoAngle' below).
+ '/enableAutoAngle' - enables auto angle to the defaalt state, enabled.  On
+    - teleportation or restarting, if this is enabled, the angles of the player
+    - is reset to angles of the telenode or other entity involved.  Note that
+    - on death, the angles of the players are lost and autoAngle is forced on
+    - spawn.
+    - autoAngle is almost never prefered but it is kept for the minority who
+    - prefer the old behaviour.
+ '/disableAutoAngle' disables auto angle.
+ '/CPMode' - there are 3 modes oc cp'ing: enabled, print, and disabled.  Run
+    - this command without any arguments to see more.
+ '/OCTime' - toggles time display
+ '/class' - this command is not new to the mod, but there are some limits as to
+    - which classes can be used.  See ^2!info layout^7 for more information
+ '/callvote hide' - call a vote to hide somebody for
+    - ${g_hideTimeCallvoteMinutes} seconds
+ '/callvote unhide' - call a vote to unhide somebody for
+    - ${g_hideTimeCallvoteMinutes} seconds.
+ '/callvote spec' - this command doesn't have to do anything with the OC mod
+    - in particular^T^O^D^O^7.  Call a vote to force a player on the
+    - spectator team for ${g_adminTempSpec} seconds.
+ '/kill' - is not new to the OC mod but in OC mode suicides are always instant
 
-Some OC's are alien classes with
- -'/class level0'
+All other OC commands:
+ '/joinscrim' - See ^2!info scrim^7
+ '/leavescrim' - See ^2!info scrim^7
+ '/stats' - See ^2!info stats^7
+ '/myStats' - See ^2!info stats^7
+ '/callvote startscrim' - See ^2!info scrim^7
+ '/callvote endscrim' - See ^2!info scrim^7
+ '/group' - See ^2!info contributing^7
+ '/groupUp' - See ^2!info contributing^7
+ '/groupDown' - See ^2!info contributing^7
+ '/spawn' - See ^2!info contributing^7
+ '/spawnUp' - See ^2!info contributing^7
+ '/spawnDown' - See ^2!info contributing^7
 
---UNDER CONSTRUCTION--
-
-Press tilde, '~', to see the entire document
+^1
+^2
+^3
+^4
+^5
+^6
+^7Press tilde, '~', to see the entire document
 --

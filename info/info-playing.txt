@@ -21,7 +21,16 @@ There are several checkpoints to help you win.  All boosters are checkpoints.
 As a human, shoot the checkpoint to activate it.  As an alien, slash, slice
 bite or chomp the booster to active it.
 
+Some telenodes will teleport to another.  Look at the _base_ of the telenode
+and press 'use' (default 'q').  Bind a key with '+button6' if it is not bound.
+
 For more topics about playing OC's see ^2!info playing-more^7
 
-Press tilde, '~', to see the entire document
+^1
+^2
+^3
+^4
+^5
+^6
+^7Press tilde, '~', to see the entire document
 --

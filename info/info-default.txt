@@ -1,13 +1,20 @@
 Your objective is to get the armoury.  Use it to win.
 
 See ^2!info playing^7 to see information about playing an obstacle course
-See ^2!info list^7 to see information about the current obstacle courses available
+See ^2!info list^7 to the current obstacle courses available
 See ^2!info stats^7 to see information about hiscores and stats
 See ^2!info scrim^7 to see information about scrims and races
+See ^2!info contributing^7 to see how to develop your own courses
 See ^2!info faq^7 to see a list of requently asked questions
 See ^2!info admin^7 to see information for server admins
 
 This server is running qvm version ${g_version} (build ID: ${g_build})
 
-Press tilde, '~', to see the entire document
+^1
+^2
+^3
+^4
+^5
+^6
+^7Press tilde, '~', to see the entire document
 --

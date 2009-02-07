@@ -1,0 +1,47 @@
+To join a scrim, in console type '/joinScrim lgun team name'.  Replace lgun with
+any of the following guns:
+ -rifle
+ -shotgun
+ -chaingun
+ -lgun
+ -mdriver
+ -prifle
+ -lcannon
+ -flamer
+ -psaw
+ -grenade
+
+and, of course, replace team name with your desired team name.
+
+If the team name already exists, you will join the team and the weapon is
+ignored.
+
+Once the teams are settled, type '/callvote startscrim a' to start an armory
+scrim or '/callvote startscrim m' to start a medi scrim vote.
+
+The first team to use every medical station (or armoury) wins.  All medis
+count for the team as well as checkpoints.  Death will also influence
+losing medis.  After the first team wins each team will be given
+${g_ocScrimAfterTime} seconds to finish.
+
+_Once the warmup or scrim has started_, Team chat will be redirected to
+everybody on your scrim team and nobody else.  Admins will not be able to
+scrim teamchat unless they are on your team (although the teamchat does
+get logged along with everything else said in games.log so abuse
+can dealt with).  Team chat will only be redirected either during the actual
+teamplay or during the scrim warmup.
+
+If you are the only person on your scrim team, your score will be recorded
+
+Type '/callvote endscrim' if you wish to end the scrim.  Unlike a vote for
+startscrim, this vote can only called if the player is not on a scrim team and
+players can vote for a called endscrim vote if they are not on a scrim team.
+
+^1
+^2
+^3
+^4
+^5
+^6
+^7Press tilde, '~', to see the entire document
+--

@@ -5,6 +5,11 @@ FAQ #1-
  A: There are admins who have permission to edit OC's.  They are not cheating.
       - These admins cannot earn any hiscores, stats, and they cannot win.
 
-Press tilde, '~', to see the entire document
-
+^1
+^2
+^3
+^4
+^5
+^6
+^7Press tilde, '~', to see the entire document
 --
