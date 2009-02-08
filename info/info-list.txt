@@ -7,11 +7,11 @@ TODO: format better
 
 ^2Latest releases
 
+^5cruz-b2           - oc_beta            - ${oc-rating,cruz-b2,oc} - bob, superpie (beta)
 ^5sirius            - oc_beta            - ${oc-rating,sirius,oc} - superpie (beta)
 ^5cargoport-102     - oc_beta            - ${oc-rating,cargoport-102,oc} - bob (beta)
 ^5nexus6            - oca^^5m_beta         - ${oc-rating,nexus6,oca^m} - bob, Harry Pothead (beta)
 ^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob
-^5circletrain       - ocadw              - ${oc-rating,circletrain,ocadw} - bob
 
 ^6===================================
 
@@ -87,7 +87,7 @@ FangBlade
 ^5nexus6            - oc                 - ${oc-rating,nexus6,oc} - bob - Zort
 ^5UTCSb2            - oc                 - ${oc-rating,UTCSb2,oc} - bob
 ^5nexus6            - ocat               - ${oc-rating,nexus6,ocat} - bob
-^5circletrain       - ocadw              - ${oc-rating,circletrain,ocadw} - bob  - New!
+^5circletrain       - ocadw              - ${oc-rating,circletrain,ocadw} - bob
 ^5straftrain1       - ocadwuern          - ${oc-rating,straftrain1,ocadwuern} - bob
 ^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob  - New!
 ^5karith            - oc                 - ${oc-rating,karith,oc} - bob - Zort
@@ -96,6 +96,7 @@ FangBlade
 ^5thanatos_b3       - oc                 - ${oc-rating,thanatos_b3,oc} - superpie, Harry Pothead, RipeFlesh
 ^5transit           - oc                 - ${oc-rating,transit,oc} - bob, Zort
 ^5thermal           - oc_medisonly       - ${oc-rating,thermal,oc_medisonly} - Harry Pothead
+^5cruz-b2           - oc_beta            - ${oc-rating,cruz-b2,oc} - bob, superpie  - New!
 ^5pushcannon_b3     - ocam               - ${oc-rating,pushcannon_b3,ocam} - Harry Pothead
 ^5outpost_p4_beta3  - oc                 - ${oc-rating,outpost_p4_beta3,oc} - Harry Pothead - superpie, bob
 ^5veddak-final      - oc_beta            - ${oc-rating,veddak-final,oc} - superpie
