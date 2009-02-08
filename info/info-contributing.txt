@@ -1,4 +1,4 @@
---HOW TO DEVELOP AND SUBMIT A COURSE
+--HOW TO DEVELOP AND SUBMIT AN OBSTACLE COURSE
 
 An OC is simply built and saved.  Building is OC mode is recommended.
 To build an OC in editoc mode:
@@ -34,7 +34,7 @@ There are several things which need to be considered before uploading
 
 Next, determine the OC's difficulty:
 
-Easy: a newcomer can beat it with some if not little skill.
+Beginner: a newcomer can beat it with some if not little skill.
 Intermediate: a regular player with moderate skill can beat it.
 Advanced: takes a little more skill or determination than usual skill to win.
 Expert: takes a considerable amount of skill.  Many will be frusturated and give
