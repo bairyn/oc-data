@@ -9,6 +9,8 @@ See ^2!info faq^7 to see a list of requently asked questions
 See ^2!info admin^7 to see information for server admins
 
 This server is running qvm version ${g_version} (build ID: ${g_build})
+Homepage: http://bobis.boldlygoingnowhere.org/content/oc/about
+irc: #tremulous-oc on freenode
 
 ^1
 ^2
