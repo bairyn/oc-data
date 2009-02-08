@@ -90,7 +90,6 @@ FangBlade
 ^5nexus6            - ocat               - 8 /10 - bob
 ^5circletrain       - ocaDw              - 8 /10 - bob  - New!
 ^5nexus6            - oca^^5m_beta         - 8 /10 - bob, Harry Pothead  - New!
-^5openfield_beta2   - oc                 - 8 /10 - bob
 ^5arachnid2         - oc                 - 8 /10 - bob
 ^5nameless_alpha    - oc                 - 8 /10 - bob
 ^5tremor            - oc                 - 8 /10 - bob
@@ -156,7 +155,6 @@ FangBlade
 
 ^5niveus            - oc                 - 9 /10 - bob - Zort, LoneWolf
 ^5gloom3t           - oc                 - 8 /10 - Harry Pothead
-^5openfield_beta2   - oc                 - 8 /10 - bob
 ^5arachnid2         - ocamuer            - 8 /10 - Zort
 ^5pushcannon_b3     - oc_beta            - 7 /10 - bob, superpie
 ^5atcs              - ocbed              - 9 /10 - bob
@@ -225,6 +223,7 @@ FangBlade
 ^5atcs-x            - oc_contrib         - >FTiGeRbLaDe - Harry Pothead
 ^5wrecktify_b1      - oc_contrib         - 8 /10 - Vodka
 ^5spacetracks_beta1 - oc_contrib         - 7 /10 - Vodka
+^5openfield_beta2   - oc_contrib         - 8 /10 - bob
 
 
 ^3---
