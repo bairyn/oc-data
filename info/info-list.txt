@@ -1,0 +1,144 @@
+To rate an obstacle course, see http://bobis.boldlygoingnowhere.org/poll/
+
+TODO: format better
+
+^3list of ^252^3 oc's
+
+
+^2Latest releases
+
+^5sirius            - oc_beta            - ${oc-rating,sirius,oc} - superpie (beta)
+^5cargoport-102     - oc_beta            - ${oc-rating,cargoport-102,oc} - bob (beta)
+^5nexus6            - oca^^5m_beta         - ${oc-rating,nexus6,oca^m} - bob, Harry Pothead (beta)
+^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob
+^5circletrain       - ocadw              - ${oc-rating,circletrain,ocadw} - bob
+
+^6===================================
+
+^6===================================
+^6In development
+
+^6pulse-beta3 oc
+^6cruz-b2 oc
+
+^6===================================
+Official developers
+
+bob
+Zort
+Harry Pothead
+superpie
+
+Contributors
+
+Draikonz
+LoneWolf
+Pheonix
+RipeFlesh
+Vodka
+>FTiGeRbLaDe
+FangBlade
+
+
+^6===================================
+
+
+^2Available oc's in order of difficulty
+
+
+^2mapname           - layoutname         - rating
+
+^3---
+^3Beginner
+
+^5grangerrink_b2    - oc                 - ${oc-rating,grangerrink_b2,oc} - bob
+^5nameless_alpha    - ocamuer            - ${oc-rating,nameless_alpha,ocamuer} - bob
+^5atcs              - oc                 - ${oc-rating,atcs,oc} - bob
+^5theBunker         - oc_beta            - ${oc-rating,theBunker,oc} - superpie - Harry Pothead, RipeFlesh
+
+
+^3---
+^3Intermediate
+
+^5niveus            - oc                 - ${oc-rating,niveus,oc} - bob - Zort, LoneWolf
+^5gloom3t           - oc                 - ${oc-rating,gloom3t,oc} - Harry Pothead
+^5arachnid2         - ocamuer            - ${oc-rating,arachnid2,ocamuer} - Zort
+^5pushcannon_b3     - oc_beta            - ${oc-rating,pushcannon_b3,oc} - bob, superpie
+^5atcs              - ocbed              - ${oc-rating,atcs,ocbed} - bob
+^51984b4            - oc                 - ${oc-rating,1984b4,oc} - bob - Zort
+^5arachnid2         - oc2                - ${oc-rating,arachnid2,oc2} - bob
+^5eden-b3           - oc                 - ${oc-rating,eden-b3,oc2} - Zort
+^5tremor            - oc                 - ${oc-rating,tremor,oc} - bob
+^5ig_chaos          - oc                 - ${oc-rating,ig_chaos,oc} - superpie
+^5arachnid2         - oc                 - ${oc-rating,arachnid2,oc} - bob
+^5powergrid_b25     - oc                 - ${oc-rating,powergrid_b25,oc} - bob
+^5atcszalpha-b2     - oc                 - ${oc-rating,atcszalpha-b2,oc} - bob - Zort
+^5nameless_alpha    - oc                 - ${oc-rating,nameless_alpha,oc} - bob
+^5ethereal          - oc                 - ${oc-rating,etheral,oc} - superpie
+^5niveus            - ocb^^5m              - ${oc-rating,niveus,ocb^m} - bob
+^5cargoport-102     - oc_beta            - ${oc-rating,cargoport-102,oc} - bob  - New!
+^5gamma_core-beta6  - oc                 - ${oc-rating,gamma_core-beta6,oc} - Harry Pothead - bob
+
+
+^3---
+^3Advanced
+
+^5uranium124        - oc                 - ${oc-rating,uranium124,oc} - Zort - bob
+^5nexus6            - oc                 - ${oc-rating,nexus6,oc} - bob - Zort
+^5UTCSb2            - oc                 - ${oc-rating,UTCSb2,oc} - bob
+^5nexus6            - ocat               - ${oc-rating,nexus6,ocat} - bob
+^5circletrain       - ocadw              - ${oc-rating,circletrain,ocadw} - bob  - New!
+^5straftrain1       - ocadwuern          - ${oc-rating,straftrain1,ocadwuern} - bob
+^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob  - New!
+^5karith            - oc                 - ${oc-rating,karith,oc} - bob - Zort
+^5station15-beta3   - oc                 - ${oc-rating,station15-beta,oc} - bob
+^5gloom2beta2       - oc                 - ${oc-rating,gloom2beta2,oc} - Harry Pothead, superpie, RipeFlesh
+^5thanatos_b3       - oc                 - ${oc-rating,thanatos_b3,oc} - superpie, Harry Pothead, RipeFlesh
+^5transit           - oc                 - ${oc-rating,transit,oc} - bob, Zort
+^5thermal           - oc_medisonly       - ${oc-rating,thermal,oc_medisonly} - Harry Pothead
+^5pushcannon_b3     - ocam               - ${oc-rating,pushcannon_b3,ocam} - Harry Pothead
+^5outpost_p4_beta3  - oc                 - ${oc-rating,outpost_p4_beta3,oc} - Harry Pothead - superpie, bob
+^5veddak-final      - oc_beta            - ${oc-rating,veddak-final,oc} - superpie
+
+
+^3---
+^3Expert
+
+^5atcs              - oca^^5muer           - ${oc-rating,atcs,oca^muer} - Draikonz
+^5nexus6            - oca^^5m_beta         - ${oc-rating,nexus6,oca^m} - bob, Harry Pothead  - New!
+^5peorongatep3      - oc                 - ${oc-rating,peorongatep3,oc} - bob - Zort  ^1 - Mapping inconsistencies may cause random structure destruction
+^5sirius            - oc                 - ${oc-rating,sirius,oc} - superpie  - New!
+
+
+^3---
+^3Insane
+
+^5citadel           - oc                 - ${oc-rating,citadel,oc} - bob
+^5uncreation        - oc                 - ${oc-rating,uncreation,oc} - bob
+^5meep_b2           - oc                 - ${oc-rating,meep_b2,oc} - Zort - bob
+^5metro-b1-2        - oc                 - ${oc-rating,metro-b1-2,oc} - Zort
+
+
+^6===================================
+
+
+^3---
+^2Poor quality courses
+
+^5sectorb17         - oc_contrib         - ${oc-rating,sectorb17,oc_contrib} - Harry Pothead
+^5cerberus_b1       - oc_contrib         - ${oc-rating,cerberus_b1,oc_contrib} - LoneWolf, phoenix - Zort
+^5atcs-x            - oc_contrib         - ${oc-rating,atcs-x,oc_contrib} - >FTiGeRbLaDe - Harry Pothead
+^5wrecktify_b1      - oc_contrib         - ${oc-rating,wrecktify_b1,oc_contrib} - Vodka
+^5spacetracks_beta1 - oc_contrib         - ${oc-rating,spacetracks_beta1,oc_contrib} - Vodka
+^5openfield_beta2   - oc_contrib         - ${oc-rating,openfield_beta2,oc_contrib} - bob
+
+^3---
+
+^1
+^2
+^3
+^4
+^5
+^6
+^7Press tilde, '~', to see the entire document
+--
