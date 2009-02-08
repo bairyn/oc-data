@@ -159,7 +159,7 @@ FangBlade
 ^5openfield_beta2   - oc                 - 8 /10 - bob
 ^5arachnid2         - ocamuer            - 8 /10 - Zort
 ^5pushcannon_b3     - oc_beta            - 7 /10 - bob, superpie
-^5atcs              - ocbeD              - 9 /10 - bob
+^5atcs              - ocbed              - 9 /10 - bob
 ^51984b4            - oc                 - 8 /10 - bob - Zort
 ^5arachnid2         - oc2                - 9 /10 - bob
 ^5eden-b3           - oc                 - 9 /10 - Zort
@@ -182,8 +182,8 @@ FangBlade
 ^5nexus6            - oc                 - 7 /10 - bob - Zort
 ^5UTCSb2            - oc                 - 9 /10 - bob
 ^5nexus6            - ocat               - 8 /10 - bob
-^5circletrain       - ocaDw              - 8 /10 - bob  - New!
-^5straftrain1       - ocaDwuern          - 7 /10 - bob
+^5circletrain       - ocadw              - 8 /10 - bob  - New!
+^5straftrain1       - ocadwuern          - 7 /10 - bob
 ^5mission_one_b6    - oc                 - 7 /10 - bob  - New!
 ^5karith            - oc                 - 9 /10 - bob - Zort
 ^5station15-beta3   - oc                 - 9 /10 - bob
