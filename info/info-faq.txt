@@ -5,6 +5,14 @@ FAQ #1-
  A: There are admins who have permission to edit OC's.  They are not cheating.
       - These admins cannot earn any hiscores, stats, and they cannot win.
 
+FAQ #2-
+ Q: What is speedmode?
+ A: speedmode sets your speed to your current flySpeed.  flySpeed can be set
+      - by setting cg_flySpeed.  If your client does not have cg_flySpeed, you
+      - can also try setting cl_anonymous, handicap, or color1 to non-default
+      - non-zero values.  Note that most clients will not let handicap go
+      - higher than 100
+
 ^1
 ^2
 ^3
