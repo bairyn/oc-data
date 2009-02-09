@@ -1,3 +1,7 @@
+--
+A scrim is a race between a team of one or multiple players either first to use
+the arm or medis.
+
 To join a scrim, in console type '/joinScrim lgun team name'.  Replace lgun with
 any of the following guns:
  -rifle

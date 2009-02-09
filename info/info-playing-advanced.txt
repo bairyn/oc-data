@@ -1,3 +1,4 @@
+--
 Misc commands:
  '/teleboost' - teleports to the checkpoint and simulates a death (you will
     - lose all medis and arms up to the last saved checkpoint).

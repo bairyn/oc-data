@@ -1,3 +1,4 @@
+--
 Your objective is to get the armoury.  Use it to win.
 
 See ^2!info playing^7 to see information about playing an obstacle course

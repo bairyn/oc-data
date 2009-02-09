@@ -1,3 +1,4 @@
+--
 This document explains the basic rules of playing an Obstacle Course.
 For other documents about playing, see ^2!info playing-more^7.
 

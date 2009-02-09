@@ -1,3 +1,4 @@
+--
 To rate an obstacle course, see http://bobis.boldlygoingnowhere.org/poll/
 
 TODO: format better
