@@ -62,6 +62,7 @@ FangBlade
 ^3Intermediate
 
 ^5niveus            - oc                 - ${oc-rating,niveus,oc} - bob - Zort, LoneWolf
+^5atcs-x            - oc                 - ${oc-rating,atcs-x,oc} - >FTiGeRbLaDe - Harry Pothead
 ^5gloom3t           - oc                 - ${oc-rating,gloom3t,oc} - Harry Pothead
 ^5arachnid2         - ocamuer            - ${oc-rating,arachnid2,ocamuer} - Zort
 ^5pushcannon_b3     - oc_beta            - ${oc-rating,pushcannon_b3,oc} - bob, superpie
@@ -129,7 +130,6 @@ FangBlade
 
 ^5sectorb17         - oc_contrib         - ${oc-rating,sectorb17,oc_contrib} - Harry Pothead
 ^5cerberus_b1       - oc_contrib         - ${oc-rating,cerberus_b1,oc_contrib} - LoneWolf, phoenix - Zort
-^5atcs-x            - oc_contrib         - ${oc-rating,atcs-x,oc_contrib} - >FTiGeRbLaDe - Harry Pothead
 ^5wrecktify_b1      - oc_contrib         - ${oc-rating,wrecktify_b1,oc_contrib} - Vodka
 ^5spacetracks_beta1 - oc_contrib         - ${oc-rating,spacetracks_beta1,oc_contrib} - Vodka
 ^5openfield_beta2   - oc_contrib         - ${oc-rating,openfield_beta2,oc_contrib} - bob
