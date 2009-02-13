@@ -9,7 +9,7 @@ TODO: format better
 ^2Latest releases
 
 ^5cruz-b2           - oc_beta            - ${oc-rating,cruz-b2,oc} - bob, superpie (beta)
-^5sirius            - oc_beta            - ${oc-rating,sirius,oc} - superpie (beta)
+^5sirius            - oc                 - ${oc-rating,sirius,oc} - superpie
 ^5cargoport-102     - oc_beta            - ${oc-rating,cargoport-102,oc} - bob (beta)
 ^5nexus6            - oca^^5m_beta         - ${oc-rating,nexus6,oca^m} - bob, Harry Pothead (beta)
 ^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob
@@ -110,7 +110,6 @@ FangBlade
 ^5atcs              - oca^^5muer           - ${oc-rating,atcs,oca^muer} - Draikonz
 ^5nexus6            - oca^^5m_beta         - ${oc-rating,nexus6,oca^m} - bob, Harry Pothead  - New!
 ^5peorongatep3      - oc                 - ${oc-rating,peorongatep3,oc} - bob - Zort  ^1 - Mapping inconsistencies may cause random structure destruction
-^5sirius            - oc                 - ${oc-rating,sirius,oc} - superpie  - New!
 
 
 ^3---
@@ -120,6 +119,7 @@ FangBlade
 ^5uncreation        - oc                 - ${oc-rating,uncreation,oc} - bob
 ^5meep_b2           - oc                 - ${oc-rating,meep_b2,oc} - Zort - bob
 ^5metro-b1-2        - oc                 - ${oc-rating,metro-b1-2,oc} - Zort
+^5sirius            - oc                 - ${oc-rating,sirius,oc} - superpie
 
 
 ^6===================================
