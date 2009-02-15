@@ -3,11 +3,12 @@ To rate an obstacle course, see http://bobis.boldlygoingnowhere.org/poll/
 
 TODO: format better
 
-^3list of ^252^3 oc's
+^3list of ^254^3 oc's
 
 
 ^2Latest releases
 
+^5straftrain1       - oc_beta            - ${oc-rating,straftrain1,oc} - bob  - New! (beta)
 ^5cruz-b2           - oc_beta            - ${oc-rating,cruz-b2,oc} - bob, superpie (beta)
 ^5sirius            - oc                 - ${oc-rating,sirius,oc} - superpie
 ^5cargoport-102     - oc_beta            - ${oc-rating,cargoport-102,oc} - bob (beta)
@@ -91,7 +92,7 @@ FangBlade
 ^5nexus6            - ocat               - ${oc-rating,nexus6,ocat} - bob
 ^5circletrain       - ocadw              - ${oc-rating,circletrain,ocadw} - bob
 ^5straftrain1       - ocadwuern          - ${oc-rating,straftrain1,ocadwuern} - bob
-^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob  - New!
+^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob
 ^5karith            - oc                 - ${oc-rating,karith,oc} - bob - Zort
 ^5station15-beta3   - oc                 - ${oc-rating,station15-beta,oc} - bob
 ^5gloom2beta2       - oc                 - ${oc-rating,gloom2beta2,oc} - Harry Pothead, superpie, RipeFlesh
@@ -109,6 +110,7 @@ FangBlade
 
 ^5atcs              - oca^^5muer           - ${oc-rating,atcs,oca^muer} - Draikonz
 ^5nexus6            - oca^^5m_beta         - ${oc-rating,nexus6,oca^m} - bob, Harry Pothead  - New!
+^5straftrain1       - oc_beta            - ${oc-rating,straftrain1,oc} - bob  - New!
 ^5peorongatep3      - oc                 - ${oc-rating,peorongatep3,oc} - bob - Zort  ^1 - Mapping inconsistencies may cause random structure destruction
 
 
