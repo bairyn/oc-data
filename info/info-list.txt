@@ -76,7 +76,6 @@ FangBlade
 ^5atcszalpha-b2     - oc                 - ${oc-rating,atcszalpha-b2,oc} - bob - Zort
 ^5nameless_alpha    - oc                 - ${oc-rating,nameless_alpha,oc} - bob
 ^5ethereal          - oc                 - ${oc-rating,etheral,oc} - superpie
-^5ticonderoga_0-4   - oc_beta            - ${oc-rating,ticonderoga_0-4,oc} - bob  - New!
 ^5niveus            - ocb^^5m              - ${oc-rating,niveus,ocb^m} - bob
 ^5cargoport-102     - oc_beta            - ${oc-rating,cargoport-102,oc} - bob  - New!
 ^5gamma_core-beta6  - oc                 - ${oc-rating,gamma_core-beta6,oc} - Harry Pothead - bob
@@ -92,6 +91,7 @@ FangBlade
 ^5circletrain       - ocadw              - ${oc-rating,circletrain,ocadw} - bob
 ^5straftrain1       - ocadwuern          - ${oc-rating,straftrain1,ocadwuern} - bob
 ^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob
+^5ticonderoga_0-4   - oc_beta            - ${oc-rating,ticonderoga_0-4,oc} - bob  - New!
 ^5karith            - oc                 - ${oc-rating,karith,oc} - bob - Zort
 ^5station15-beta3   - oc                 - ${oc-rating,station15-beta,oc} - bob
 ^5gloom2beta2       - oc                 - ${oc-rating,gloom2beta2,oc} - Harry Pothead, superpie, RipeFlesh
