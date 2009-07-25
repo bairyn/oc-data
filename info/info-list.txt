@@ -1,19 +1,17 @@
 --
-To rate an obstacle course, see http://bobis.boldlygoingnowhere.org/poll/
+Go to http://bobis.boldlygoingnowhere.org/poll/
+  to rate obstacle courses
 
-TODO: format better
-
-^3list of ^254^3 oc's
+^3list of ^255^3 oc's
 
 
-^2Latest releases
+^2Newest releases
 
-^5straftrain1       - oc_beta            - ${oc-rating,straftrain1,oc} - bob  - New! (beta)
+^5ticonderoga_0-4   - oc_beta            - ${oc-rating,ticonderoga_0-4,oc} - bob (beta)
+^5straftrain1       - oc_beta            - ${oc-rating,straftrain1,oc} - bob (beta)
 ^5cruz-b2           - oc_beta            - ${oc-rating,cruz-b2,oc} - bob, superpie (beta)
 ^5sirius            - oc                 - ${oc-rating,sirius,oc} - superpie
 ^5cargoport-102     - oc_beta            - ${oc-rating,cargoport-102,oc} - bob (beta)
-^5nexus6            - oca^^5m_beta         - ${oc-rating,nexus6,oca^m} - bob, Harry Pothead (beta)
-^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob
 
 ^6===================================
 
@@ -78,6 +76,7 @@ FangBlade
 ^5atcszalpha-b2     - oc                 - ${oc-rating,atcszalpha-b2,oc} - bob - Zort
 ^5nameless_alpha    - oc                 - ${oc-rating,nameless_alpha,oc} - bob
 ^5ethereal          - oc                 - ${oc-rating,etheral,oc} - superpie
+^5ticonderoga_0-4   - oc_beta            - ${oc-rating,ticonderoga_0-4,oc} - bob  - New!
 ^5niveus            - ocb^^5m              - ${oc-rating,niveus,ocb^m} - bob
 ^5cargoport-102     - oc_beta            - ${oc-rating,cargoport-102,oc} - bob  - New!
 ^5gamma_core-beta6  - oc                 - ${oc-rating,gamma_core-beta6,oc} - Harry Pothead - bob
@@ -109,7 +108,7 @@ FangBlade
 ^3Expert
 
 ^5atcs              - oca^^5muer           - ${oc-rating,atcs,oca^muer} - Draikonz
-^5nexus6            - oca^^5m_beta         - ${oc-rating,nexus6,oca^m} - bob, Harry Pothead  - New!
+^5nexus6            - oca^^5m_beta         - ${oc-rating,nexus6,oca^m} - bob, Harry Pothead
 ^5straftrain1       - oc_beta            - ${oc-rating,straftrain1,oc} - bob  - New!
 ^5peorongatep3      - oc                 - ${oc-rating,peorongatep3,oc} - bob - Zort  ^1 - Mapping inconsistencies may cause random structure destruction
 
@@ -128,7 +127,7 @@ FangBlade
 
 
 ^3---
-^2Poor quality courses
+^2Contributed courses that don't meet standard guidelines
 
 ^5sectorb17         - oc_contrib         - ${oc-rating,sectorb17,oc_contrib} - Harry Pothead
 ^5cerberus_b1       - oc_contrib         - ${oc-rating,cerberus_b1,oc_contrib} - LoneWolf, phoenix - Zort
