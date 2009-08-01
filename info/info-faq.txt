@@ -14,6 +14,10 @@ FAQ #2-
       - non-zero values.  Note that most clients will not let handicap go
       - higher than 100
 
+FAQ #3-
+ Q: How do I disable the annoying tesla sound?
+ A: Open your console, and type /set cg_disableWeaponSounds tesla/idle1.wav
+
 ^1
 ^2
 ^3
