@@ -16,7 +16,19 @@ FAQ #2-
 
 FAQ #3-
  Q: How do I disable the annoying tesla sound?
- A: Open your console, and type /set cg_disableWeaponSounds tesla/idle1.wav
+ A: Open your console, and type "/set cg_disableWeaponSounds tesla/idle1.wav"
+
+FAQ #4-
+ Q: Can I measure my speed or time?
+ A: Yes.  Open the console and type "/set cg_printSpeedometer 1" and "/set cg_printTimer 1"
+      - (use the same commands with 0 to disable them.  2.0 introduced a nicer method
+	  - of measuring with HUD elements.  Type "/set cg_drawSpeedometer 1" and
+      - "/set cg_drawPlayerTimer 1" to enable them (notice Player in cg_drawPlayerTimer)
+
+FAQ #5-
+ Q: Can I beat an obstacle course without spoiling any solutions?
+ A: Yes, type "/hide" in console to hide yourself from non-admin players.  Run the same
+     - command again to unhide yourself
 
 ^1
 ^2
