@@ -3,20 +3,18 @@
 
 An OC's layout, or level, global settings are determined by its file name.
 The most common file name is 'oc.dat'.  '.dat' is required at the end of every
-layout.  The layout name is everything before '.dat', and this case it it is
+layout.  The layout name is everything before '.dat', and in this case it it is
 'oc'.  If the layout name begins with 'oc' it is an Obstacle Course layout,
 and Obstacle Course mode is used when it is loaded.
 
 Every character after 'oc' determines the settings in a layout.
 
-n: Use the old behaviour of armouries; only one armoury has to be used to win
+n: Use the old behaviour of armouries: only one armoury has to be used to win
+a: Players can buy at any armoury (otherwise they need to win before they can buy equipment)  NOTE: this flag will only work on OC mods >= v2.0
 p: Players will never be slowed down by creep
 a: only the alien team can play
 b: both teams can play
 w: aliens cannot wallwalk
-*u: all turrets are unpowered
-*e: all teslas are unpowered
-*r: all reactors will not zap aliens
 g: grangers can play
 ^^7g: advanced grangers can play
 d: dretches can play
@@ -27,6 +25,9 @@ m: marauders can play
 h: dragoons can play
 ^^7h: advanced dragoons can play
 t: tyrants can play
+*u: all turrets are unpowered (NO LONGER SUPPORTED since v2.0)
+*e: all teslas are unpowered (NO LONGER SUPPORTED since v2.0)
+*r: all reactors will not zap aliens (NO LONGER SUPPORTED since v2.0)
 
 -
 *: obsolete flag

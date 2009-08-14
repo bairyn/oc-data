@@ -1,60 +1,105 @@
 --
---HOW TO DEVELOP AND SUBMIT AN OBSTACLE COURSE
+--BASIC SETUP--
 
-An OC is simply built and saved.  Building is OC mode is recommended.
-To build an OC in editoc mode:
-1: load the map
-2: Use '!layoutsave layoutname' (layoutname must be an oc layout, see
-    - ^2!info layout^7)
-3: Use '!restart layoutname'
-4: Use '!editoc 1' (or '!editoc 2' to let everybody make changes)
+For OC mod versions <  2.0, you're only option is to connect to a special server
+running the OC mod in editoc (development) mode.
 
-After editoc is enabled, build the obstacle course.
+For OC mod versions >= 2.0, you can also simply start your Tremulous client, select
+'mods', and select 'oc'.  Then load a map using the console, preferably using the '/devmap'
+command to start it with cheats enabled ('/map' to load map without cheats)
 
-In editoc mode, you can manually power or unpower a buildables.  It is almost always
-ideal to leave a buildable unpowered.
+This server is running version ${g_version}
 
-In editoc mode, you can also 
+--START BUILDING--
 
---SUBMITTING AN OBSTACLE COURSE
+To start building a NEW OC:
+1: Load the map (with '/devmap' or '/map')
+2: Save the INITIAL LAYOUT without building anything by
+    - using '!layoutsave layoutname', where layoutname
+    - is a valid OC layout name (see '^2!info layout^7').
+    - You should usually use 'oc' as the layoutname,
+    - since you can change it later.
+3: '!restart layoutname'
+4: '!editoc 1' to enable admins to edit OC's, or '!editoc 2' to enable
+    - everybody to edit OC's.
+5: Start building.  In the future, you'll be able to continue working on
+    - it by following the below instructions.
 
-There are several things which need to be considered before uploading
+To continue building an OC on which you have already begun working:
+1: Load the map (with '/devmap' or '/map')
+2: '!listlayouts' to see your layout's name in case you forgot it.
+3: '!restart layoutname'
 
- -Does the course use any obsolete flags?  We don't normally accept any
-    - new layouts with obsolete flags
- -Is there another OC of the same general type?  If there is, make sure that
-    - it is worth uploading when another OC in the same map can be played as
-    - well.  In other words, try to make it either significantly better or
-    - significantly different.  Many hours have been wasted from course
-    - developers ignored this.  Don't ignore this guideline.
- -Does the layout cover the entire map it is being developed?  Every vent
-    - or nook and cranny does not need to filled, but there should be no empty
-    - spots.  This is one of the less strict rules.  Try to fill in as much
-    - as possible.
- -Is it good?  Try to be unique and original.  Don't be repetitive.
+--BUILDING THE OC--
 
-Next, determine the OC's difficulty:
+An OC will need at least a method of spawning (by building an egg or telenode),
+and at least one medi or armoury.
 
-Beginner: a newcomer can beat it with some if not little skill.
-Intermediate: a regular player with moderate skill can beat it.
-Advanced: takes a little more skill or determination than usual skill to win.
-Expert: takes a considerable amount of skill.  Many will be frusturated and give
-    - up.
-Insane: a course for the master of the master.  Takes an extremely high level of
-    - skill to win.
+Check that there are no existing similar OC's for the same map.  If there is
+another OC of the same or similar type, make sure that yours is much better or much different,
+otherwise you might not have much luck getting your obstacle course accepted.  One possible
+exception is extending or improving an existing OC.
 
-After everything is polished, either upload it to the forum board of
-http://forum.clanzerorisk.com/ or http://bobis.boldlygoingnowhere.org/ or
-contact one of the following people who have commit access to the server:
+Try to fill as much of the map as you can (without exceeding the 1024-4096 or so
+buildable limit, of course), to the extent deemed reasonable.  Courses that leave
+large portions of the map without buildables will most likely not be accepted.
 
-bob can be contacted at KrabbyKrap@gmail.com or on #tremulous-oc on freenode
-superpie can be contacted at nick572@gmail.com or on irc.freenode.org
+It pretty much boils down to common sense; there's really not many restrictions
+aside from the load the server can handle.
 
+But most importantly, try not to be too repetitive, mainly with existing courses.
+These tend to become uninteresting.  When options run low, making a map yourself
+is always an option.
+
+
+You can manually power or unpower a buildable by setting its ''group''.  Use
+'/groupUp' and '/groupDown' to change a buildable's group, or '/group' to
+see the buildable's current group without changing it.  Group 2 is unpowered,
+group 1 is powered, and group 0 buildables will use default tremulous behaviour
+to determine its power.  Telenodes are grouped for teleportation.  When a telenode
+is used, the player will be teleported to the closest telenode in the same group, or
+if none exist, nothing happens.  If telenodes are in group 0, they are used for spawning
+humans, and will not teleport.  Grouping has no effect on eggs.  Telenodes and eggs
+by default use group 0, and everything else has a default of group 2.
+
+Use '/buildableOverride' to toggle buildableOverride.  With buildable override enabled,
+you can build inside of walls, stack buildables, and build inside of other buildables (you
+can still build inside of other buildables while buildableOverride is disable.  This is
+a bug.).  When buildableOverride is disabled, you will not be able to stack buildables.
+Note that courses that are valid (built with buildableOverride disabled) are considered
+''pure courses'', and are good since they will load in even a non-oc environment.  Be
+sure that you don't build a buildable inside another, since you can still do so
+with buildableOverride disabled.  This is a bug.).  OC mods < v2.0 do not have this command.
+Instead, buildableOverride is always enabled.
+
+For OC mods < v2.0, to spawn group, use '/spawnUp', '/spawnDown', and '/spawn' in the same sense as '/groupUp',
+etc.  Spawn grouping is used to stack buildables correctly.  Spawn group the lowest buildable with the lowest
+group, and each buildable higher needs to use a higher group.  Since version 2.0, stacking is done automatically,
+and these commands don't exist.
+
+For OC mods <  v2.0, cheating would be done in editoc mode with the commands !cheat-(noclip|god|notarget|speed).
+For OC mods >= v2.0, cheating is done in the same manner as cheating in devmap mode, and the above admin commands
+don't exist.
+
+--SAVING THE OC--
+
+In case the server crashes or anything bad like that happens, it is recommended to save
+frequently.  Use '!layoutsave layoutname' (or '!layoutsavereview' if you don't have permission)
+to save.
+
+This will save the layout in your base directory.  It'll be base/layouts/mapname/layoutname.dat
+
+Don't use any obsolete or unsupported flags.
+
+--SUBMITTING THE OC--
+
+See '^2!info contact^7'.  Just have the layout file ready (for review).
+
+Also find out in which difficulty category your OC fits (see '^2!info list^7' for
+categories)
+--
+
+^7Press tilde, '~', to see the entire document
 ^1
 ^2
 ^3
-^4
-^5
-^6
-^7Press tilde, '~', to see the entire document
---

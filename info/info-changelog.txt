@@ -1,0 +1,13 @@
+--
+
+List of changes to OC mod since version 2.0
+
+(nothing yet)
+
+This server is running version v${g_version}.
+--
+
+^7Press tilde, '~', to see the entire document
+^1
+^2
+^3

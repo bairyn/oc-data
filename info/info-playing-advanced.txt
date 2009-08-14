@@ -1,11 +1,13 @@
 --
+OC mods >= 2.0 are compatible with Tremulous 1.2
+
 Misc commands:
  '/teleboost' - teleports to the checkpoint and simulates a death (you will
     - lose all medis and arms up to the last saved checkpoint).
  '/restartOC' - old restart method.  Kills you and restarts the obstacle course
  '/quickRestartOC' - restarts OC without death and autoangle is not
     - forced (see '/enableAutoAngle' below).
- '/enableAutoAngle' - enables auto angle to the defaalt state, enabled.  On
+ '/enableAutoAngle' - enables auto angle to the default state, enabled.  On
     - teleportation or restarting, if this is enabled, the angles of the player
     - is reset to angles of the telenode or other entity involved.  Note that
     - on death, the angles of the players are lost and autoAngle is forced on
@@ -16,6 +18,9 @@ Misc commands:
  '/CPMode' - there are 3 modes oc cp'ing: enabled, print, and disabled.  Run
     - this command without any arguments to see more.
  '/OCTime' - toggles time display
+    - NOTE: this option is only avaibable in OC mods < v2.0.  This server
+    - is running v${g_version}.  For versions >= 2.0, use the options in
+	- ''Options->Controls->OC'' instead
  '/class' - this command is not new to the mod, but there are some limits as to
     - which classes can be used.  See ^2!info layout^7 for more information
  '/callvote hide' - call a vote to hide somebody for
@@ -24,7 +29,9 @@ Misc commands:
     - ${g_hideTimeCallvoteMinutes} seconds.
  '/callvote spec' - this command doesn't have to do anything with the OC mod
     - in particular^T^O^D^O^7.  Call a vote to force a player on the
-    - spectator team for ${g_adminTempSpec} seconds.
+    - spectator team for '${g_adminTempSpec}' seconds.
+    - NOTE: this option is only avaibable in OC mods < v2.0.  This server
+    - is running v${g_version}.
  '/kill' - is not new to the OC mod but in OC mode suicides are always instant
 
 All other OC commands:
@@ -40,12 +47,10 @@ All other OC commands:
  '/spawn' - See ^2!info contributing^7
  '/spawnUp' - See ^2!info contributing^7
  '/spawnDown' - See ^2!info contributing^7
+ '/buildableOverride' - See ^2!info contributing^7
+--
 
+^7Press tilde, '~', to see the entire document
 ^1
 ^2
 ^3
-^4
-^5
-^6
-^7Press tilde, '~', to see the entire document
---

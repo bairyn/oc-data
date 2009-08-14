@@ -3,13 +3,14 @@ Frequently Asked Questions
 
 FAQ #1-
  Q: There's people cheating and joining the other team!  What's going on?
- A: There are admins who have permission to edit OC's.  They are not cheating.
+ A: There are admins who have permission to edit OC's.  They are not literally cheating.
       - These admins cannot earn any hiscores, stats, and they cannot win.
 
 FAQ #2-
  Q: What is speedmode?
  A: speedmode sets your speed to your current flySpeed.  flySpeed can be set
-      - by setting cg_flySpeed.  If your client does not have cg_flySpeed, you
+      - by setting cg_flySpeed.  For OC mods < v2.0, if your client does not
+      - have cg_flySpeed, you
       - can also try setting cl_anonymous, handicap, or color1 to non-default
       - non-zero values.  Note that most clients will not let handicap go
       - higher than 100
@@ -20,21 +21,19 @@ FAQ #3-
 
 FAQ #4-
  Q: Can I measure my speed or time?
- A: Yes.  Open the console and type "/set cg_printSpeedometer 1" and "/set cg_printTimer 1"
-      - (use the same commands with 0 to disable them.  2.0 introduced a nicer method
-	  - of measuring with HUD elements.  Type "/set cg_drawSpeedometer 1" and
-      - "/set cg_drawPlayerTimer 1" to enable them (notice Player in cg_drawPlayerTimer)
+ A: Yes.  See ''Options->Controls->OC'' for OC mods >= v2.0.  For OC mods <= v2.0, use '/speedometer' and '/OCTime' to toggle the center-print speedometer and OC timer respectively.
 
 FAQ #5-
  Q: Can I beat an obstacle course without spoiling any solutions?
- A: Yes, type "/hide" in console to hide yourself from non-admin players.  Run the same
-     - command again to unhide yourself
+ A: Yes, type ''/hide'' in console to hide yourself from non-admin players.  Use the same
+     - command to unhide yourself.
 
+FAQ #6-
+ Q: Some of these info documents are long.  Can I scroll all the way down?
+ A: Yes, all Tremulous clients can do that with CTRL+END
+--
+
+^7Press tilde, '~', to see the entire document
 ^1
 ^2
 ^3
-^4
-^5
-^6
-^7Press tilde, '~', to see the entire document
---

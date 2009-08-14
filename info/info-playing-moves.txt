@@ -1,17 +1,15 @@
 --
---THE THREE TYPES OF MOVEMENT--
+--THREE TYPES OF MOVEMENT--
 
-There are three different types of movement in Tremulous:
+There are three different types of jump movement in Tremulous:
  1) After jumping, the Z axis is constant
  3) After jumping, the Z axis is never negative
  2) After jumping, the Z axis is not constant
 
-The first type listed here is the mosted movement type.  It is used almost
-universally by all v1.1 servers.  Height is never gained nor lost
+The first type listed is used in most Tremulous 1.1.0 servers.  Height is never gained nor lost
 
 The second type listed is used by some of the most recent development servers,
-MercenariesGuild^(^T^O^D^O^c^o^l^o^r^i^f^y^M^g^d^e^v^T^o^R^e^a^l^N^a^m^e^)
-included.  With this movement type, height can be gained, but it is never lost
+MercenariesGuild included.  With this movement type, height can be gained, but it is never lost
 
 The third time is the least common movement type.  It is usually used by a small
 number of development servers.  Height is not restricted.  This mode adds more
@@ -21,7 +19,7 @@ areas.  The OC server uses this movement.
 Because of the method we believe is best for movement itself, velocity and
 slopes will affect the height gained or lost.  The faster you are,
 the more your height will be affected.  The steeper the slope is, the more
-your height will be affected.  If you jump running up a slope, you will gain
+height is be affected.  If you jump running up a slope, you will gain
 height.  If you jump running down a slope, you will lose height.  As a beginner,
 try to get a lot of distance before jumping to practice gaining speed on a
 slope.
@@ -34,8 +32,8 @@ pressing and holding down the crouch key.  It is a common beginner's mistake
 to hold down the jump key while pressing the crouch key.  You cannot crouch
 while you are pressing jump key.  If your jump key is bound to spacebar and your
 crouch key is bound to 'c', you will only crouch when 'c' is pressed and
-spacebar is not.  Crouch jumping can be difficult to learn at first, but just
-like learning to ride a bike, it becomes second nature after practice.
+spacebar is not.  Crouch jumping can be difficult to learn at first, but it
+becomes second nature after practice.
 
 --BUNNY HOPPING--
 
@@ -44,30 +42,21 @@ be difficult to time when combining bunny hopping with other advanced movements.
 To bunny hop, press space any amount of time before you land, and release
 and press again immediately after you jump (assuming you have jump bound to
 spacebar).  As long as space is pressed when and for each time you touch a
-solid surface, you will jump.  To help understand this, stand in one place
+solid surface, you will jump.  To help you understand this, try standing in one place
 and press space twice quickly.  Press and release space the first time
 immediately, but hold it down and do not release it the second time.  Regardless
-of when you press it the second time, as long as it is pressed (without crouch
-pressed) you should jump.
-
-Note that sometimes the packet which contains the start of your jump might be
-dropped due to packet loss.  Your two best options are to improve your
-connection, which can usually be done by pausing or halting any downloads or
-switching to a better ISP, or use a client-side mod which modifies the behaviour
-of jumping usually with the network code.
+of time at which you press it the second time, you'll jump as long as it's pressed (without crouch
+pressed).
 
 --ACCELERATION--
 
-There are several methods with which you can use to accelerate.  The most common
+There are several methods that you can use to accelerate.  The most common
 methods are: slightly turning the camera, immediately changing direction of
-movement by 45o, and pouncing as a Dragoon.  Once you accelerate, however, if
-you are on a surface, your velocity will immediately return to around 320.
+movement by 45o, and pouncing as a Dragoon.  Walking on the ground will
+cause your velocity to return to 320.
+--
 
+^7Press tilde, '~', to see the entire document
 ^1
 ^2
 ^3
-^4
-^5
-^6
-^7Press tilde, '~', to see the entire document
---

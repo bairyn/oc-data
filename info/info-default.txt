@@ -1,23 +1,27 @@
 --
 Your objective is to get the armoury.  Use it to win.
 
-See ^2!info playing^7 to see information about playing an obstacle course
-See ^2!info list^7 to the current obstacle courses available
-See ^2!info stats^7 to see information about hiscores and stats
-See ^2!info scrim^7 to see information about scrims and races
-See ^2!info contributing^7 to see how to develop your own courses
-See ^2!info faq^7 to see a list of requently asked questions
-See ^2!info admin^7 to see information for server admins
+Open ''Options->Controls->OC'' to set keys and change options.
 
-This server is running qvm version ${g_version} (build ID: ${g_build})
+See ^2!info playing^7 to see how to play an obstacle course
+
+Miscellaneous topics:
+See ^2!info list^7 to see the current obstacle courses available
+See ^2!info stats^7 to see information on high scores and stats
+See ^2!info scrim^7 to see information for scrims and races
+See ^2!info contributing^7 to see how to develop your own courses
+See ^2!info contact^7 to find where to contact me (bob)
+See ^2!info admin^7 to see information for server admins
+See ^2!info faq^7 to see a list of frequently asked questions
+
+These documents cover versions 1.3 through 2.0
+
+This server is running OC mod version ${g_version} (build ID: ${g_build})
 Homepage: http://bobis.boldlygoingnowhere.org/content/oc/about
 irc: #tremulous-oc on freenode
+--
 
+^7Press tilde, '~', to see the entire document
 ^1
 ^2
 ^3
-^4
-^5
-^6
-^7Press tilde, '~', to see the entire document
---

@@ -1,37 +1,25 @@
 --
-This document explains the basic rules of playing an Obstacle Course.
-For other documents about playing, see ^2!info playing-more^7.
+Most OC's (Obstacle Course) are designed for human play.
 
-There are several Obstacle Courses (abbreviated as OC's) that are available
-for play.  To see these OC's see ^2!info list^7.
+Your primary objective is to get to the armoury.  Some OC's have
+multiple armouries, most of which all will need to be used in order to
+win, unless (press your bound )
 
-Most OC's are for humans.  In human oc's, players may only join the human team
-(Note that admins occasionally may find mistakes.  If they do, they can use
-any weapon and join any team.  See FAQ #1 (^2!info faq^7) for more information).
+Most OC's have many medical stations built for bonus.  These are usually
+more difficult to reach than the armoury.  Healing hasn't
+been changed in the OC mod (medis will heal and give medkit).
 
-Your primary objective is to get to the armoury.  There are several OC's
-which have multiple armouries, and in that case all need to be used.  Most
-OC's have a single armoury only.
+You can save your progress by activating a checkpoint (booster).
+Shoot, slice, or bite a checkpoint to activate it.  When you die, you
+will lose all unsaved your used medis and armouries.
 
-Along your way to the armoury, don't forget to use the medical stations
-(abbreviated as medis).  Medical stations are typically more numerous and more
-difficult to use than armouries.  There are a few OC's which do not include
-any armouries.
+Some telenodes allow you to teleport.  Aim at the _base_ of one of
+these telenodes and press 'use' (default 'q') to teleport.
 
-There are several checkpoints to help you win.  All boosters are checkpoints.
-As a human, shoot the checkpoint to activate it.  As an alien, slash, slice
-bite or chomp the booster to active it.
+(See ^2!info playing-more^7 for more topics)
+--
 
-Some telenodes will teleport to another.  Look at the _base_ of the telenode
-and press 'use' (default 'q').  Bind a key with '+button6' if it is not bound.
-
-For more topics about playing OC's see ^2!info playing-more^7
-
+^7Press tilde, '~', to see the entire document
 ^1
 ^2
 ^3
-^4
-^5
-^6
-^7Press tilde, '~', to see the entire document
---

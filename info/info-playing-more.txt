@@ -5,12 +5,9 @@ See ^2!info playing-advanced^7 to see more advanced playing, and how the game
   - works
 See ^2!info playing-moves^7 to see some common and basic methods of getting
   - through OC's
+--
 
+^7Press tilde, '~', to see the entire document
 ^1
 ^2
 ^3
-^4
-^5
-^6
-^7Press tilde, '~', to see the entire document
---
