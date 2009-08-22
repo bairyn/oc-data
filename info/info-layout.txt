@@ -25,6 +25,7 @@ m: marauders can play
 h: dragoons can play
 ^^7h: advanced dragoons can play
 t: tyrants can play
+u: luci-jump mode; players spawn with and can use a lucifer cannon
 *u: all turrets are unpowered (NO LONGER SUPPORTED since v2.0)
 *e: all teslas are unpowered (NO LONGER SUPPORTED since v2.0)
 *r: all reactors will not zap aliens (NO LONGER SUPPORTED since v2.0)
