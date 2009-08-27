@@ -1,14 +1,35 @@
 --
 --LAYOUT NAMES
 
-An OC's layout, or level, global settings are determined by its file name.
-The most common file name is 'oc.dat'.  '.dat' is required at the end of every
-layout.  The layout name is everything before '.dat', and in this case it it is
-'oc'.  If the layout name begins with 'oc' it is an Obstacle Course layout,
-and Obstacle Course mode is used when it is loaded.
+The filename of a course (typically oc.dat) determines the type of it.
+Certain flags are recognized.  For example, since the 'o' flag
+enables players to only need to use one armoury to win, a layout with name of 
+oco.dat will enable players to do that.  Note that the first two characters ('oc')
+are ignored when flags are determined.  You can also append a suffix in which
+no characters will be interpreted as a flag by adding a '_'.  Everything after the
+first '_' will not be read as a flag.  For example, we could have noted that
+the course only has medis in it by layoutsaving it as "oco_medisonly" (which
+would create the file oc_medisonly.dat)
 
-Every character after 'oc' determines the settings in a layout.
+These flags are recognized in OC mod versions >= v2.0 (This
+server is using OC mod v${g_version}):
+o:  Only one armoury needs to be used in order to win
+c:  No creep (humans won't be slowed down)
+h:  Humans can join the human team and play as one.  This flag is implied when no alien class flags are set
+w:  Wall-walking is disabled.
+g:  Grangers can play.  This and all other alien class flags will, when set, enable players to join the alien team.
+^g: Advanced grangers can play.  This and all other alien class flags will, when set, enable players to join the alien team.
+d:  Dretches can play.
+b:  Basilisks.
+^b: Advanced basilisks.
+m:  Marauders.
+^m: Advanced marauders.
+r:  Dragoons;
+^r: Advanced dragoons;
+t:  Tyrants.
+l:  When this flag is set, lucifer cannon mode is enabled: players will spawn with a lucifer cannon, and will be able to use bonuses with it.
 
+These flags are used in older versions of the OC mod (< v2.0):
 n: Use the old behaviour of armouries: only one armoury has to be used to win
 a: Players can buy at any armoury (otherwise they need to win before they can buy equipment)  NOTE: this flag will only work on OC mods >= v2.0
 p: Players will never be slowed down by creep
@@ -26,14 +47,16 @@ h: dragoons can play
 ^^7h: advanced dragoons can play
 t: tyrants can play
 u: luci-jump mode; players spawn with and can use a lucifer cannon
-*u: all turrets are unpowered (NO LONGER SUPPORTED since v2.0)
-*e: all teslas are unpowered (NO LONGER SUPPORTED since v2.0)
-*r: all reactors will not zap aliens (NO LONGER SUPPORTED since v2.0)
+*u: all turrets are unpowered
+*e: all teslas are unpowered
+*r: all reactors will not zap aliens
 
+*: obsolete flag; do not use
 -
-*: obsolete flag
 
-All numbers (0-9) are reserved and will never be used as a flag.
+All digits (0-9) will never be used as a flag.
+
+Usually, only these suffixes (part after the '_') are used:
 
 If two OC's have the same name, add numbers starting with 2.  For example, if
 a layout 'oc' already exists for a map when a second one is built, name it
@@ -43,20 +66,17 @@ If the layout has a '_', the underscore itself and everything after it is
 ignored.  Typically, an underscore is used only with one of the following
 standard suffixes:
 
-review: The changes are pending review
-beta: New medis or arms are looking to be placed.  Generally a new OC.
-    - Stats will most likely be erased if they were stored during the beta
-    - stage.
-armsonly: There are no medical stations in the course
-medisonly: No Armouries in the course
-indevelopment: The OC isn't finished.  (No OC's with this suffix should be
-    - uploaded to the official OC server except under special circumstances)
-contrib: Not necessarily a contribution (there are plenty without this suffix),
-    - but a poor quality OC's.  These will usually not be accepted anymore.
+review: Changes need to be reviewed.
+beta: Stats will most likely be reset.  New medical stations and armouries
+    - can be built.
+medisonly: No armouries.
+armsonly: There aren't any medical stations.
 
-Note that 'queue' was used instead of 'review' and 'needsreview' was used
-instead of 'indevelopment' and 'testing' also existed in all versions before
-1.3.
+contrib: The name is misleading, but is kept for historical reasons (and laziness).
+    - This suffix means that the OC is poor, crappy, or unfinished.
+
+This suffix was also accepted but was never used before v2.0
+indevelopment: The OC isn't finished.
 
 ^1
 ^2

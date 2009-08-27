@@ -5,8 +5,9 @@ For OC mod versions <  2.0, you're only option is to connect to a special server
 running the OC mod in editoc (development) mode.
 
 For OC mod versions >= 2.0, you can also simply start your Tremulous client, select
-'mods', and select 'oc'.  Then load a map using the console, preferably using the '/devmap'
-command to start it with cheats enabled ('/map' to load map without cheats)
+'mods', and select 'oc'.  Then load a map using the console, usually with '/devmap'
+(enable all cheats) if you're working alone, or '/map' (enable some cheats only
+if the player can edit the OC) if you have other people testing.
 
 This server is running version ${g_version}
 
@@ -63,14 +64,10 @@ humans, and will not teleport.  Grouping has no effect on eggs.  Telenodes and e
 by default use group 0, and everything else has a default of group 2.
 
 Use '/buildableOverride' to toggle buildableOverride.  With buildable override enabled,
-you can build inside of walls, stack buildables, and build inside of other buildables (you
-can still build inside of other buildables while buildableOverride is disable.  This is
-a bug.).  When buildableOverride is disabled, you will not be able to stack buildables.
+you can build inside of walls, stack buildables, and build inside of other buildables.
+When buildableOverride is disabled, you will not be able to stack buildables.
 Note that courses that are valid (built with buildableOverride disabled) are considered
-''pure courses'', and are good since they will load in even a non-oc environment.  Be
-sure that you don't build a buildable inside another, since you can still do so
-with buildableOverride disabled.  This is a bug.).  OC mods < v2.0 do not have this command.
-Instead, buildableOverride is always enabled.
+''pure courses'', and are good since they'll load even a non-oc environment.
 
 For OC mods < v2.0, to spawn group, use '/spawnUp', '/spawnDown', and '/spawn' in the same sense as '/groupUp',
 etc.  Spawn grouping is used to stack buildables correctly.  Spawn group the lowest buildable with the lowest
