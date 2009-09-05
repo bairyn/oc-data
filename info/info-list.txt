@@ -106,6 +106,7 @@ FangBlade
 ^3---
 ^3Expert
 
+^5meep_b2           - oc                 - ${oc-rating,meep_b2,oc} - Zort - bob
 ^5atcs              - oc^^5m               - ${oc-rating,atcs,oc^m} - Draikonz
 ^5nexus6            - oc^^5m_beta          - ${oc-rating,nexus6,oc^m} - bob, Harry Pothead
 ^5straftrain1       - oc_beta            - ${oc-rating,straftrain1,oc} - bob  - New!
@@ -118,7 +119,6 @@ FangBlade
 
 ^5citadel           - oc                 - ${oc-rating,citadel,oc} - bob
 ^5uncreation        - oc                 - ${oc-rating,uncreation,oc} - bob
-^5meep_b2           - oc                 - ${oc-rating,meep_b2,oc} - Zort - bob
 ^5metro-b1-2        - oc                 - ${oc-rating,metro-b1-2,oc} - Zort
 ^5sirius            - oc                 - ${oc-rating,sirius,oc} - superpie
 
