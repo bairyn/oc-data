@@ -19,7 +19,6 @@ Go to http://bobis.boldlygoingnowhere.org/poll/
 ^6In development
 
 ^6pulse-beta3 oc
-^6cruz-b2 oc
 
 ^6===================================
 Official developers
@@ -52,7 +51,7 @@ FangBlade
 ^3Beginner
 
 ^5grangerrink_b2    - oc                 - ${oc-rating,grangerrink_b2,oc} - bob
-^5nameless_alpha    - ocamuer            - ${oc-rating,nameless_alpha,ocamuer} - bob
+^5nameless_alpha    - ocm                - ${oc-rating,nameless_alpha,ocm} - bob
 ^5atcs              - oc                 - ${oc-rating,atcs,oc} - bob
 ^5theBunker         - oc_beta            - ${oc-rating,theBunker,oc} - superpie - Harry Pothead, RipeFlesh
 
@@ -63,7 +62,7 @@ FangBlade
 ^5niveus            - oc                 - ${oc-rating,niveus,oc} - bob - Zort, LoneWolf
 ^5atcs-x            - oc                 - ${oc-rating,atcs-x,oc} - >FTiGeRbLaDe - Harry Pothead
 ^5gloom3t           - oc                 - ${oc-rating,gloom3t,oc} - Harry Pothead
-^5arachnid2         - ocamuer            - ${oc-rating,arachnid2,ocamuer} - Zort
+^5arachnid2         - ocm                - ${oc-rating,arachnid2,ocm} - Zort
 ^5pushcannon_b3     - oc_beta            - ${oc-rating,pushcannon_b3,oc} - bob, superpie
 ^5atcs              - ocbed              - ${oc-rating,atcs,ocbed} - bob
 ^51984b4            - oc                 - ${oc-rating,1984b4,oc} - bob - Zort
@@ -87,9 +86,9 @@ FangBlade
 ^5uranium124        - oc                 - ${oc-rating,uranium124,oc} - Zort - bob
 ^5nexus6            - oc                 - ${oc-rating,nexus6,oc} - bob - Zort
 ^5UTCSb2            - oc                 - ${oc-rating,UTCSb2,oc} - bob
-^5nexus6            - ocat               - ${oc-rating,nexus6,ocat} - bob
-^5circletrain       - ocadw              - ${oc-rating,circletrain,ocadw} - bob
-^5straftrain1       - ocadwuern          - ${oc-rating,straftrain1,ocadwuern} - bob
+^5nexus6            - oct                - ${oc-rating,nexus6,ocat} - bob
+^5circletrain       - ocdw               - ${oc-rating,circletrain,ocdw} - bob
+^5straftrain1       - ocdwn              - ${oc-rating,straftrain1,ocdwn} - bob
 ^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob
 ^5ticonderoga_0-4   - oc_beta            - ${oc-rating,ticonderoga_0-4,oc} - bob  - New!
 ^5karith            - oc                 - ${oc-rating,karith,oc} - bob - Zort
@@ -99,7 +98,7 @@ FangBlade
 ^5transit           - oc                 - ${oc-rating,transit,oc} - bob, Zort
 ^5thermal           - oc_medisonly       - ${oc-rating,thermal,oc_medisonly} - Harry Pothead
 ^5cruz-b2           - oc_beta            - ${oc-rating,cruz-b2,oc} - bob, superpie  - New!
-^5pushcannon_b3     - ocam               - ${oc-rating,pushcannon_b3,ocam} - Harry Pothead
+^5pushcannon_b3     - ocm                - ${oc-rating,pushcannon_b3,ocm} - Harry Pothead
 ^5outpost_p4_beta3  - oc                 - ${oc-rating,outpost_p4_beta3,oc} - Harry Pothead - superpie, bob
 ^5veddak-final      - oc_beta            - ${oc-rating,veddak-final,oc} - superpie
 
@@ -107,8 +106,8 @@ FangBlade
 ^3---
 ^3Expert
 
-^5atcs              - oca^^5muer           - ${oc-rating,atcs,oca^muer} - Draikonz
-^5nexus6            - oca^^5m_beta         - ${oc-rating,nexus6,oca^m} - bob, Harry Pothead
+^5atcs              - oc^^5m               - ${oc-rating,atcs,oc^m} - Draikonz
+^5nexus6            - oc^^5m_beta          - ${oc-rating,nexus6,oc^m} - bob, Harry Pothead
 ^5straftrain1       - oc_beta            - ${oc-rating,straftrain1,oc} - bob  - New!
 ^5peorongatep3      - oc                 - ${oc-rating,peorongatep3,oc} - bob - Zort  ^1 - Mapping inconsistencies may cause random structure destruction
 
