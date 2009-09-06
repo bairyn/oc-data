@@ -3,7 +3,7 @@ Most OC's (Obstacle Course) are designed for human play.
 
 Your primary objective is to get to the armoury.  Some OC's have
 multiple armouries, most of which all will need to be used in order to
-win, unless (press your bound )
+win, unless the course uses the option 'OneArm'
 
 Most OC's have many medical stations built for bonus.  These are usually
 more difficult to reach than the armoury.  Healing hasn't
