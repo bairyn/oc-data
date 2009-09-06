@@ -17,7 +17,7 @@ FAQ #2-
 
 FAQ #3-
  Q: How do I disable the annoying tesla sound?
- A: Open your console, and type "/set cg_disableWeaponSounds tesla/idle1.wav"
+ A: Open your console, and type '/set cg_disableWeaponSounds tesla/idle1.wav'
 
 FAQ #4-
  Q: Can I measure my speed or time?

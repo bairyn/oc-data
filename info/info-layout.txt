@@ -8,7 +8,7 @@ oco.dat will enable players to do that.  Note that the first two characters ('oc
 are ignored when flags are determined.  You can also append a suffix in which
 no characters will be interpreted as a flag by adding a '_'.  Everything after the
 first '_' will not be read as a flag.  For example, we could have noted that
-the course only has medis in it by layoutsaving it as "oco_medisonly" (which
+the course only has medis in it by layoutsaving it as 'oco_medisonly' (which
 would create the file oc_medisonly.dat)
 
 These flags are recognized in OC mod versions >= v2.0 (This

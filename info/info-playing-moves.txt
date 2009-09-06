@@ -26,7 +26,7 @@ slope.
 
 --CROUCHING IN AIR--
 
-Another fundamental move is commonly referred to as "crouch jumping".  Crouch
+Another fundamental move is commonly referred to as 'crouch jumping'.  Crouch
 jumping is performed by pressing the jump key, releasing the jump key, and
 pressing and holding down the crouch key.  It is a common beginner's mistake
 to hold down the jump key while pressing the crouch key.  You cannot crouch
