@@ -64,7 +64,7 @@ FangBlade
 ^5gloom3t           - oc                 - ${oc-rating,gloom3t,oc} - Harry Pothead
 ^5arachnid2         - ocm                - ${oc-rating,arachnid2,ocm} - Zort
 ^5pushcannon_b3     - oc_beta            - ${oc-rating,pushcannon_b3,oc} - bob, superpie
-^5atcs              - ocbed              - ${oc-rating,atcs,ocbed} - bob
+^5atcs              - ochd               - ${oc-rating,atcs,ochd} - bob
 ^51984b4            - oc                 - ${oc-rating,1984b4,oc} - bob - Zort
 ^5arachnid2         - oc2                - ${oc-rating,arachnid2,oc2} - bob
 ^5eden-b3           - oc                 - ${oc-rating,eden-b3,oc2} - Zort
@@ -75,7 +75,7 @@ FangBlade
 ^5atcszalpha-b2     - oc                 - ${oc-rating,atcszalpha-b2,oc} - bob - Zort
 ^5nameless_alpha    - oc                 - ${oc-rating,nameless_alpha,oc} - bob
 ^5ethereal          - oc                 - ${oc-rating,etheral,oc} - superpie
-^5niveus            - ocb^^5m              - ${oc-rating,niveus,ocb^m} - bob
+^5niveus            - och^^5m              - ${oc-rating,niveus,och^m} - bob
 ^5cargoport-102     - oc_beta            - ${oc-rating,cargoport-102,oc} - bob
 ^5gamma_core-beta6  - oc                 - ${oc-rating,gamma_core-beta6,oc} - Harry Pothead - bob
 
