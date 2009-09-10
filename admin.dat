@@ -1,42 +1,42 @@
 [level]
 level   = -1024
 name    = ^7hall wax
-flags   = L admintest help time
+flags   = L admintest help time register
 
 [level]
 level   = -768
 name    = ^7loser
-flags   = L admintest help time
+flags   = L admintest help time register
 
 [level]
 level   = 0
 name    = ^7Player
-flags   = L admintest help time TEAMCHATCMD
+flags   = L admintest help time register TEAMCHATCMD
 
 [level]
 level   = 1
 name    = ^7Player
-flags   = L admintest help time TEAMCHATCMD INACTIVITY
+flags   = L admintest help time register TEAMCHATCMD INACTIVITY
 
 [level]
 level   = 2
 name    = ^2Protected Player
-flags   = L admintest help time TEAMCHATCMD IMMUNITY INACTIVITY TEAMCHANGEFREE
+flags   = L admintest help time register TEAMCHATCMD IMMUNITY INACTIVITY TEAMCHANGEFREE
 
 [level]
 level   = 3
 name    = ^5Half-Admin
-flags   = L admintest help time listplayers namelog N ban k m B b d denybuild c TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT
+flags   = L admintest help time register listplayers namelog N ban k m B b d denybuild c TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT
 
 [level]
 level   = 4
 name    = ^4Admin
-flags   = L admintest help time listplayers namelog N ban k m B b d denybuild c V listadmins nextmap spec999 hide TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
+flags   = L admintest help time register listplayers namelog N ban k m B b d denybuild c V listadmins nextmap spec999 hide TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
 
 [level]
 level   = 5
 name    = ^3Half-OC Admin
-flags   = L admintest help time listplayers namelog N ban k m B b d denybuild c V listadmins nextmap spec999 hide editoc TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
+flags   = L admintest help time register listplayers namelog N ban k m B b d denybuild c V listadmins nextmap spec999 hide editoc TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
 
 [level]
 level   = 6
