@@ -127,7 +127,7 @@ FangBlade
 
 
 ^3---
-^2Contributed courses that don't meet standard guidelines
+^2Crappy (or broken) courses
 
 ^5sectorb17         - oc_contrib         - ${oc-rating,sectorb17,oc_contrib} - Harry Pothead
 ^5cerberus_b1       - oc_contrib         - ${oc-rating,cerberus_b1,oc_contrib} - LoneWolf, phoenix - Zort
