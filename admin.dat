@@ -1,42 +1,42 @@
 [level]
 level   = -1024
 name    = ^7hall wax
-flags   = listlayouts admintest help info time register
+flags   = listlayouts admintest adminhelp info time register
 
 [level]
 level   = -768
 name    = ^7loser
-flags   = listlayouts admintest help info time register
+flags   = listlayouts admintest adminhelp info time register
 
 [level]
 level   = 0
 name    = ^7Player
-flags   = listlayouts admintest help info time register TEAMCHATCMD
+flags   = listlayouts admintest adminhelp info time register TEAMCHATCMD
 
 [level]
 level   = 1
 name    = ^7Player
-flags   = listlayouts admintest help info time register TEAMCHATCMD INACTIVITY
+flags   = listlayouts admintest adminhelp info time register TEAMCHATCMD INACTIVITY
 
 [level]
 level   = 2
 name    = ^2Protected Player
-flags   = listlayouts admintest help info time register TEAMCHATCMD IMMUNITY INACTIVITY TEAMCHANGEFREE
+flags   = listlayouts admintest adminhelp info time register TEAMCHATCMD IMMUNITY INACTIVITY TEAMCHANGEFREE
 
 [level]
 level   = 3
 name    = ^5Half-Admin
-flags   = listlayouts admintest help info time register listplayers namelog rename ban kick mute showbans denybuild cancelvote TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT
+flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick mute showbans denybuild cancelvote TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT
 
 [level]
 level   = 4
 name    = ^4Admin
-flags   = listlayouts admintest help info time register listplayers namelog rename ban kick mute showbans denybuild cancelvote passvote listadmins nextmap spec999 hide TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
+flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick mute showbans denybuild cancelvote passvote listadmins nextmap spec999 hide TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
 
 [level]
 level   = 5
 name    = ^3Half-OC Admin
-flags   = listlayouts admintest help info time register listplayers namelog rename ban kick mute showbans denybuild cancelvote passvote listadmins nextmap spec999 hide editoc TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
+flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick mute showbans denybuild cancelvote passvote listadmins nextmap spec999 hide editoc TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
 
 [level]
 level   = 6
