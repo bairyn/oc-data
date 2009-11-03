@@ -31,7 +31,7 @@ flags   = listlayouts admintest adminhelp info time register listplayers namelog
 [level]
 level   = 4
 name    = ^4Admin
-flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick mute showbans hide denybuild cancelvote passvote listadmins nextmap spec999 TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
+flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick mute showbans hide denybuild cancelvote passvote listadmins nextmap spec999 TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN CANPERMHIDE
 
 [level]
 level   = 5
