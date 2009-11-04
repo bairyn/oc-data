@@ -5,3 +5,4 @@ export DATAPATH=${1}
 echo layouts/
 echo info/
 echo maprotation.cfg
+echo server.cfg
