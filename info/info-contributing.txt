@@ -16,20 +16,20 @@ This server is running version ${g_version}
 To start building a NEW OC:
 1: Load the map (with '/devmap' or '/map')
 2: Save the INITIAL LAYOUT without building anything by
-    - using '!layoutsave layoutname', where layoutname
-    - is a valid OC layout name (see '^2!info layout^7').
+    - using '/layoutsave layoutname', where layoutname
+    - is a valid OC layout name (see '^2/info layout^7').
     - You should usually use 'oc' as the layoutname,
     - since you can change it later.
-3: '!restart layoutname'
-4: '!editoc 1' to enable admins to edit OC's, or '!editoc 2' to enable
+3: '/restart layoutname'
+4: '/editoc 1' to enable admins to edit OC's, or '/editoc 2' to enable
     - everybody to edit OC's.
 5: Start building.  In the future, you'll be able to continue working on
     - it by following the below instructions.
 
 To continue building an OC on which you have already begun working:
 1: Load the map (with '/devmap' or '/map')
-2: '!listlayouts' to see your layout's name in case you forgot it.
-3: '!restart layoutname'
+2: '/listlayouts' to see your layout's name in case you forgot it.
+3: '/restart layoutname'
 
 --BUILDING THE OC--
 
@@ -74,14 +74,14 @@ etc.  Spawn grouping is used to stack buildables correctly.  Spawn group the low
 group, and each buildable higher needs to use a higher group.  Since version 2.0, stacking is done automatically,
 and these commands don't exist.
 
-For OC mods <  v2.0, cheating would be done in editoc mode with the commands !cheat-(noclip|god|notarget|speed).
+For OC mods <  v2.0, cheating would be done in editoc mode with the commands /cheat-(noclip|god|notarget|speed).
 For OC mods >= v2.0, cheating is done in the same manner as cheating in devmap mode, and the above admin commands
 don't exist.
 
 --SAVING THE OC--
 
 In case the server crashes or anything bad like that happens, it is recommended to save
-frequently.  Use '!layoutsave layoutname' (or '!layoutsavereview' if you don't have permission)
+frequently.  Use '/layoutsave layoutname' (or '/layoutsavereview' if you don't have permission)
 to save.
 
 This will save the layout in your base directory.  It'll be base/layouts/mapname/layoutname.dat
@@ -90,9 +90,9 @@ Don't use any obsolete or unsupported flags.
 
 --SUBMITTING THE OC--
 
-See '^2!info contact^7'.  Just have the layout file ready (for review).
+See '^2/info contact^7'.  Just have the layout file ready (for review).
 
-Also find out in which difficulty category your OC fits (see '^2!info list^7' for
+Also find out in which difficulty category your OC fits (see '^2/info list^7' for
 categories)
 --
 

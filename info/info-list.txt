@@ -90,14 +90,14 @@ FangBlade
 ^5circletrain       - ocdw               - ${oc-rating,circletrain,ocdw} - bob
 ^5straftrain1       - ocdwn              - ${oc-rating,straftrain1,ocdwn} - bob
 ^5mission_one_b6    - oc                 - ${oc-rating,mission_one_b6,oc} - bob
-^5ticonderoga_0-4   - oc_beta            - ${oc-rating,ticonderoga_0-4,oc} - bob  - New!
+^5ticonderoga_0-4   - oc_beta            - ${oc-rating,ticonderoga_0-4,oc} - bob  - New/
 ^5karith            - oc                 - ${oc-rating,karith,oc} - bob - Zort
 ^5station15-beta3   - oc                 - ${oc-rating,station15-beta,oc} - bob
 ^5gloom2beta2       - oc                 - ${oc-rating,gloom2beta2,oc} - Harry Pothead, superpie, RipeFlesh
 ^5thanatos_b3       - oc                 - ${oc-rating,thanatos_b3,oc} - superpie, Harry Pothead, RipeFlesh
 ^5transit           - oc                 - ${oc-rating,transit,oc} - bob, Zort
 ^5thermal           - oc_medisonly       - ${oc-rating,thermal,oc_medisonly} - Harry Pothead
-^5cruz-b2           - oc_beta            - ${oc-rating,cruz-b2,oc} - bob, superpie  - New!
+^5cruz-b2           - oc_beta            - ${oc-rating,cruz-b2,oc} - bob, superpie  - New/
 ^5pushcannon_b3     - ocm                - ${oc-rating,pushcannon_b3,ocm} - Harry Pothead
 ^5outpost_p4_beta3  - oc                 - ${oc-rating,outpost_p4_beta3,oc} - Harry Pothead - superpie, bob
 ^5veddak-final      - oc_beta            - ${oc-rating,veddak-final,oc} - superpie
@@ -109,8 +109,8 @@ FangBlade
 ^5meep_b2           - oc                 - ${oc-rating,meep_b2,oc} - Zort - bob
 ^5atcs              - oc^^5m               - ${oc-rating,atcs,oc^m} - Draikonz
 ^5nexus6            - oc^^5m_beta          - ${oc-rating,nexus6,oc^m} - bob, Harry Pothead
-^5straftrain1       - oc_beta            - ${oc-rating,straftrain1,oc} - bob  - New!
-^5sectorb17         - ocg                - ${oc-rating,sectorb17,ocg} - bob - superpie  - New!
+^5straftrain1       - oc_beta            - ${oc-rating,straftrain1,oc} - bob  - New/
+^5sectorb17         - ocg                - ${oc-rating,sectorb17,ocg} - bob - superpie  - New/
 ^5peorongatep3      - oc                 - ${oc-rating,peorongatep3,oc} - bob - Zort  ^1 - Mapping inconsistencies may cause random structure destruction
 
 
