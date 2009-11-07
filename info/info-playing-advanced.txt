@@ -22,7 +22,7 @@ Misc commands:
     - is running v${g_version}.  For versions >= 2.0, use the options in
 	- ''Options->Controls->OC'' instead
  '/class' - this command is not new to the mod, but there are some limits as to
-    - which classes can be used.  See ^2!info layout^7 for more information
+    - which classes can be used.  See ^2/info layout^7 for more information
  '/callvote hide' - call a vote to hide somebody for
     - ${g_hideTimeCallvoteMinutes} seconds
  '/callvote unhide' - call a vote to unhide somebody for
@@ -35,19 +35,19 @@ Misc commands:
  '/kill' - is not new to the OC mod but in OC mode suicides are always instant
 
 All other OC commands:
- '/joinscrim' - See ^2!info scrim^7
- '/leavescrim' - See ^2!info scrim^7
- '/stats' - See ^2!info stats^7
- '/myStats' - See ^2!info stats^7
- '/callvote startscrim' - See ^2!info scrim^7
- '/callvote endscrim' - See ^2!info scrim^7
- '/group' - See ^2!info contributing^7
- '/groupUp' - See ^2!info contributing^7
- '/groupDown' - See ^2!info contributing^7
- '/spawn' - See ^2!info contributing^7
- '/spawnUp' - See ^2!info contributing^7
- '/spawnDown' - See ^2!info contributing^7
- '/buildableOverride' - See ^2!info contributing^7
+ '/joinscrim' - See ^2/info scrim^7
+ '/leavescrim' - See ^2/info scrim^7
+ '/stats' - See ^2/info stats^7
+ '/myStats' - See ^2/info stats^7
+ '/callvote startscrim' - See ^2/info scrim^7
+ '/callvote endscrim' - See ^2/info scrim^7
+ '/group' - See ^2/info contributing^7
+ '/groupUp' - See ^2/info contributing^7
+ '/groupDown' - See ^2/info contributing^7
+ '/spawn' - See ^2/info contributing^7
+ '/spawnUp' - See ^2/info contributing^7
+ '/spawnDown' - See ^2/info contributing^7
+ '/buildableOverride' - See ^2/info contributing^7
 --
 
 ^7Press tilde, '~', to see the entire document

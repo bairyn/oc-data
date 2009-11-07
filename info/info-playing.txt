@@ -16,7 +16,7 @@ will lose all unsaved your used medis and armouries.
 Some telenodes allow you to teleport.  Aim at the _base_ of one of
 these telenodes and press 'use' (default 'q') to teleport.
 
-(See ^2!info playing-more^7 for more topics)
+(See ^2/info playing-more^7 for more topics)
 --
 
 ^7Press tilde, '~', to see the entire document
