@@ -2,23 +2,23 @@
 Go to http://bobis.boldlygoingnowhere.org/poll/
   to rate obstacle courses
 
-^3list of ^256^3 oc's
+^3list of ^257^3 oc's
 
 
-^2Newest releases
+^2Newest courses
 
+^5arachnid2upsidedown - oc_beta          - ${oc-rating,arachnid2upsidedown,oc} - bob - superpie
 ^5sectorb17         - ocg                - ${oc-rating,sectorb17,ocg} - bob
 ^5ticonderoga_0-4   - oc_beta            - ${oc-rating,ticonderoga_0-4,oc} - bob (beta)
 ^5straftrain1       - oc_beta            - ${oc-rating,straftrain1,oc} - bob (beta)
 ^5cruz-b2           - oc_beta            - ${oc-rating,cruz-b2,oc} - bob, superpie (beta)
-^5sirius            - oc                 - ${oc-rating,sirius,oc} - superpie
 
 ^6===================================
 
 ^6===================================
 ^6In development
 
-^6pulse-beta3 oc
+(Nothing)
 
 ^6===================================
 Official developers
@@ -45,7 +45,7 @@ FangBlade
 ^2Available oc's in order of difficulty
 
 
-^2mapname           - layoutname         - rating
+^2mapname           - layoutname         - rating - developers - contributors
 
 ^3---
 ^3Beginner
@@ -106,6 +106,7 @@ FangBlade
 ^3---
 ^3Expert
 
+^5arachnid2upsidedown - oc_beta          - ${oc-rating,arachnid2upsidedown,oc} - bob - superpie
 ^5meep_b2           - oc                 - ${oc-rating,meep_b2,oc} - Zort - bob
 ^5atcs              - oc^^5m               - ${oc-rating,atcs,oc^m} - Draikonz
 ^5nexus6            - oc^^5m_beta          - ${oc-rating,nexus6,oc^m} - bob, Harry Pothead
