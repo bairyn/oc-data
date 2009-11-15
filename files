@@ -6,3 +6,4 @@ echo layouts/
 echo info/
 echo maprotation.cfg
 echo server.cfg
+echo admin.dat
