@@ -1,5 +1,5 @@
 --
-Go to http://bobis.boldlygoingnowhere.org/poll/
+Go to http://oc.superpie.org/
   to rate obstacle courses
 
 ^3list of ^257^3 oc's
