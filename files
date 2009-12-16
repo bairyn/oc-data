@@ -1,9 +1,5 @@
-#!/bin/sh
-
-export DATAPATH=${1}
-
-echo layouts/
-echo info/
-echo maprotation.cfg
-echo server.cfg
-echo admin.dat
+layouts/
+info/
+maprotation.cfg
+server.cfg
+admin.dat
