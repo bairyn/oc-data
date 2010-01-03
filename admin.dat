@@ -26,17 +26,17 @@ flags   = listlayouts admintest adminhelp info time register TEAMCHATCMD IMMUNIT
 [level]
 level   = 3
 name    = ^5Half-Admin
-flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick mute showbans hide denybuild cancelvote TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT
+flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick buildlog revert mute showbans hide denybuild cancelvote TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT
 
 [level]
 level   = 4
 name    = ^4Admin
-flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick mute showbans hide denybuild cancelvote passvote listadmins nextmap spec999 TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN CANPERMHIDE
+flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick buildlog revert mute showbans hide denybuild cancelvote passvote listadmins nextmap spec999 TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN CANPERMHIDE
 
 [level]
 level   = 5
 name    = ^3Half-OC Admin
-flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick mute showbans denybuild cancelvote passvote listadmins nextmap spec999 hide editoc TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
+flags   = listlayouts admintest adminhelp info time register listplayers namelog rename ban kick buildlog revert mute showbans denybuild cancelvote passvote listadmins nextmap spec999 hide editoc TEAMCHATCMD IMMUNITY SPECALLCHAT INACTIVITY TEAMCHANGEFREE NOVOTELIMIT ADMINCHAT UNACCOUNTABLE CANPERMBAN
 
 [level]
 level   = 6
