@@ -42,6 +42,19 @@ FangBlade
 ^6===================================
 
 
+^3---
+^2Crappy, broken or unverified courses
+
+^5grangerrink_b2    - oc_contrib         - ${oc-rating,grangerrink_b2,oc} - bob
+^5sectorb17         - oc_contrib         - ${oc-rating,sectorb17,oc_contrib} - Harry Pothead
+^5cerberus_b1       - oc_contrib         - ${oc-rating,cerberus_b1,oc_contrib} - LoneWolf, phoenix - Zort
+^5wrecktify_b1      - oc_contrib         - ${oc-rating,wrecktify_b1,oc_contrib} - Vodka
+^5spacetracks_beta1 - oc_contrib         - ${oc-rating,spacetracks_beta1,oc_contrib} - Vodka
+^5openfield_beta2   - oc_contrib         - ${oc-rating,openfield_beta2,oc_contrib} - bob
+
+^6===================================
+
+
 ^2Available oc's in order of difficulty
 
 
@@ -50,7 +63,6 @@ FangBlade
 ^3---
 ^3Beginner
 
-^5grangerrink_b2    - oc                 - ${oc-rating,grangerrink_b2,oc} - bob
 ^5nameless_alpha    - ocm                - ${oc-rating,nameless_alpha,ocm} - bob
 ^5atcs              - oc                 - ${oc-rating,atcs,oc} - bob
 ^5theBunker         - oc_beta            - ${oc-rating,theBunker,oc} - superpie - Harry Pothead, RipeFlesh
@@ -123,18 +135,6 @@ FangBlade
 ^5metro-b1-2        - oc                 - ${oc-rating,metro-b1-2,oc} - Zort
 ^5sirius            - oc                 - ${oc-rating,sirius,oc} - superpie
 
-
-^6===================================
-
-
-^3---
-^2Crappy (or broken) courses
-
-^5sectorb17         - oc_contrib         - ${oc-rating,sectorb17,oc_contrib} - Harry Pothead
-^5cerberus_b1       - oc_contrib         - ${oc-rating,cerberus_b1,oc_contrib} - LoneWolf, phoenix - Zort
-^5wrecktify_b1      - oc_contrib         - ${oc-rating,wrecktify_b1,oc_contrib} - Vodka
-^5spacetracks_beta1 - oc_contrib         - ${oc-rating,spacetracks_beta1,oc_contrib} - Vodka
-^5openfield_beta2   - oc_contrib         - ${oc-rating,openfield_beta2,oc_contrib} - bob
 
 ^3---
 
