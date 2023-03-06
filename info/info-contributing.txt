@@ -31,6 +31,9 @@ To continue building an OC on which you have already begun working:
 2: '/listlayouts' to see your layout's name in case you forgot it.
 3: '/restart layoutname'
 
+Tips:
+- You probably want to disable g_markDeconstruct.
+
 --BUILDING THE OC--
 
 An OC will need at least a method of spawning (by building an egg or telenode),
