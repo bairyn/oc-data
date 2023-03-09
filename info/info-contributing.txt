@@ -81,6 +81,10 @@ For OC mods <  v2.0, cheating would be done in editoc mode with the commands /ch
 For OC mods >= v2.0, cheating is done in the same manner as cheating in devmap mode, and the above admin commands
 don't exist.
 
+(Saving a template layout with the correct flags and then loading it can help
+ensure that e.g. optimizations specific to which teams can play are set, e.g.
+if powered turrets and teslas are wanted.)
+
 --SAVING THE OC--
 
 In case the server crashes or anything bad like that happens, it is recommended to save
